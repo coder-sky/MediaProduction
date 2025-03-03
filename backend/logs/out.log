@@ -1,0 +1,2452 @@
+2025-02-13T13:40:44: Backend running at 8000
+2025-02-13T13:40:44: db connected
+2025-02-13T13:40:48: Backend running at 8000
+2025-02-13T13:40:48: db connected
+2025-02-13T18:29:59: re-connecting
+2025-02-13T20:50:43: Backend running at 8000
+2025-02-13T20:50:43: db connected
+2025-02-13T20:58:15: Backend running at 8000
+2025-02-13T20:58:15: db connected
+2025-02-14T02:44:53: re-connecting
+2025-02-14T12:13:48: re-connecting
+2025-02-14T19:12:17: re-connecting
+2025-02-14T23:19:31: re-connecting
+2025-02-15T11:22:09: re-connecting
+2025-02-15T11:58:04: Backend running at 8000
+2025-02-15T11:58:04: db connected
+2025-02-15T18:05:23: re-connecting
+2025-02-15T18:23:06: Backend running at 8000
+2025-02-15T18:23:06: db connected
+2025-02-15T18:23:09: Backend running at 8000
+2025-02-15T18:23:09: db connected
+2025-02-15T18:23:21: Backend running at 8000
+2025-02-15T18:23:21: db connected
+2025-02-15T18:23:26: {
+2025-02-15T18:23:26:   insights: {
+2025-02-15T18:23:26:     impressions: { planned: 0, actual: 5577493 },
+2025-02-15T18:23:26:     clicks: { planned: 0, actual: 19722 },
+2025-02-15T18:23:26:     video_views: { planned: 56265, actual: 19722 },
+2025-02-15T18:23:26:     cost: { planned: 452933.25, actual: 157776 },
+2025-02-15T18:23:26:     reach: { planned: undefined, actual: 1667213 }
+2025-02-15T18:23:26:   },
+2025-02-15T18:23:26:   tableData: [
+2025-02-15T18:23:26:     {
+2025-02-15T18:23:26:       date: '70-20-5202',
+2025-02-15T18:23:26:       impressions: 5577493,
+2025-02-15T18:23:26:       video_views: 19722,
+2025-02-15T18:23:26:       cpv: 8,
+2025-02-15T18:23:26:       cost: 157776,
+2025-02-15T18:23:26:       reach: 1667213,
+2025-02-15T18:23:26:       '50%_video_views': 9223,
+2025-02-15T18:23:26:       '75%_video_views': 63557,
+2025-02-15T18:23:26:       '25%_video_views': 14039,
+2025-02-15T18:23:26:       complete_video_views: 3864,
+2025-02-15T18:23:26:       cpm: 28.29,
+2025-02-15T18:23:26:       cpcv: 40.83,
+2025-02-15T18:23:26:       cpc: 8,
+2025-02-15T18:23:26:       ctr: '0.35%',
+2025-02-15T18:23:26:       clicks: 19722
+2025-02-15T18:23:26:     }
+2025-02-15T18:23:26:   ]
+2025-02-15T18:23:26: }
+2025-02-15T18:23:26: {
+2025-02-15T18:23:26:   insights: {
+2025-02-15T18:23:26:     impressions: { planned: 0, actual: 5577493 },
+2025-02-15T18:23:26:     clicks: { planned: 0, actual: 19722 },
+2025-02-15T18:23:26:     video_views: { planned: 56265, actual: 19722 },
+2025-02-15T18:23:26:     cost: { planned: 452933.25, actual: 157776 },
+2025-02-15T18:23:26:     reach: { planned: undefined, actual: 1667213 }
+2025-02-15T18:23:26:   },
+2025-02-15T18:23:26:   tableData: [
+2025-02-15T18:23:26:     {
+2025-02-15T18:23:26:       date: '70-20-5202',
+2025-02-15T18:23:26:       impressions: 5577493,
+2025-02-15T18:23:26:       video_views: 19722,
+2025-02-15T18:23:26:       cpv: 8,
+2025-02-15T18:23:26:       cost: 157776,
+2025-02-15T18:23:26:       reach: 1667213,
+2025-02-15T18:23:26:       '50%_video_views': 9223,
+2025-02-15T18:23:26:       '75%_video_views': 63557,
+2025-02-15T18:23:26:       '25%_video_views': 14039,
+2025-02-15T18:23:26:       complete_video_views: 3864,
+2025-02-15T18:23:26:       cpm: 28.29,
+2025-02-15T18:23:26:       cpcv: 40.83,
+2025-02-15T18:23:26:       cpc: 8,
+2025-02-15T18:23:26:       ctr: '0.35%',
+2025-02-15T18:23:26:       clicks: 19722
+2025-02-15T18:23:26:     }
+2025-02-15T18:23:26:   ]
+2025-02-15T18:23:26: }
+2025-02-15T18:23:26: {
+2025-02-15T18:23:26:   insights: {
+2025-02-15T18:23:26:     impressions: { planned: 0, actual: 5577493 },
+2025-02-15T18:23:26:     clicks: { planned: 0, actual: 19722 },
+2025-02-15T18:23:26:     video_views: { planned: 56265, actual: 19722 },
+2025-02-15T18:23:26:     cost: { planned: 452933.25, actual: 157776 },
+2025-02-15T18:23:26:     reach: { planned: undefined, actual: 1667213 }
+2025-02-15T18:23:26:   },
+2025-02-15T18:23:26:   tableData: [
+2025-02-15T18:23:26:     {
+2025-02-15T18:23:26:       date: '70-20-5202',
+2025-02-15T18:23:26:       impressions: 5577493,
+2025-02-15T18:23:26:       video_views: 19722,
+2025-02-15T18:23:26:       cpv: 8,
+2025-02-15T18:23:26:       cost: 157776,
+2025-02-15T18:23:26:       reach: 1667213,
+2025-02-15T18:23:26:       '50%_video_views': 9223,
+2025-02-15T18:23:26:       '75%_video_views': 63557,
+2025-02-15T18:23:26:       '25%_video_views': 14039,
+2025-02-15T18:23:26:       complete_video_views: 3864,
+2025-02-15T18:23:26:       cpm: 28.29,
+2025-02-15T18:23:26:       cpcv: 40.83,
+2025-02-15T18:23:26:       cpc: 8,
+2025-02-15T18:23:26:       ctr: '0.35%',
+2025-02-15T18:23:26:       clicks: 19722
+2025-02-15T18:23:26:     }
+2025-02-15T18:23:26:   ]
+2025-02-15T18:23:26: }
+2025-02-15T18:30:30: Backend running at 8000
+2025-02-15T18:30:30: db connected
+2025-02-15T18:31:07: Backend running at 8000
+2025-02-15T18:31:07: db connected
+2025-02-15T23:57:30: re-connecting
+2025-02-16T23:38:27: re-connecting
+2025-02-17T04:56:49: re-connecting
+2025-02-17T12:02:36: re-connecting
+2025-02-17T13:41:18: Backend running at 8000
+2025-02-17T13:41:18: db connected
+2025-02-17T13:41:24: Backend running at 8000
+2025-02-17T13:41:24: db connected
+2025-02-17T15:28:56: Backend running at 8000
+2025-02-17T15:28:56: db connected
+2025-02-17T15:28:59: Backend running at 8000
+2025-02-17T15:28:59: db connected
+2025-02-17T15:57:36: Backend running at 8000
+2025-02-17T15:57:36: db connected
+2025-02-17T15:59:53: Error: Unknown column 'planned_budget_impressions' in 'field list'
+2025-02-17T15:59:53:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-02-17T15:59:53:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/campaignform.js:178:44)
+2025-02-17T15:59:53:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-02-17T15:59:53:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+2025-02-17T15:59:53:   code: 'ER_BAD_FIELD_ERROR',
+2025-02-17T15:59:53:   errno: 1054,
+2025-02-17T15:59:53:   sql: "update bannercampaigns set campaign_name='demo', start_date='2025-02-17', end_date='2025-02-18', planned_impressions=123344, planned_cpm='4', planned_clicks=3932, planned_cpc='3', ctr='1.3', planned_budget_impressions=0,  planned_budget_clicks='30002323', planned_budget='impressions,cost,ctr,clicks,reach', client_camp_access='clicks,impressions,cost,ctr,reach' where camp_id='cf24c52d-6b39-400c-b63c-8a9d0a1a5af4' and client_id='6a589c48-20f2-4d28-8069-56157715d9b8';",
+2025-02-17T15:59:53:   sqlState: '42S22',
+2025-02-17T15:59:53:   sqlMessage: "Unknown column 'planned_budget_impressions' in 'field list'"
+2025-02-17T15:59:53: }
+2025-02-17T16:01:42: Backend running at 8000
+2025-02-17T16:01:42: db connected
+2025-02-17T16:06:01: Backend running at 8000
+2025-02-17T16:06:01: db connected
+2025-02-17T16:07:12: Backend running at 8000
+2025-02-17T16:07:12: db connected
+2025-02-17T20:23:39: re-connecting
+2025-02-18T10:53:52: re-connecting
+2025-02-18T11:16:59: Backend running at 8000
+2025-02-18T11:16:59: db connected
+2025-02-18T11:17:04: Backend running at 8000
+2025-02-18T11:17:04: db connected
+2025-02-18T11:22:24: insights [ 'impressions', 'clicks', 'cost', 'reach' ] {
+2025-02-18T11:22:24:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:22:24:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:22:24:   cost: { planned: undefined, actual: 264400 },
+2025-02-18T11:22:24:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:22:24: }
+2025-02-18T11:22:24: insights [ 'impressions', 'clicks', 'cost', 'reach' ] {
+2025-02-18T11:22:24:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:22:24:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:22:24:   cost: { planned: undefined, actual: 264400 },
+2025-02-18T11:22:24:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:22:24: }
+2025-02-18T11:25:40: Backend running at 8000
+2025-02-18T11:25:40: db connected
+2025-02-18T11:25:45: impressions,clicks,reach,cost impressions,clicks,cpm,cpc,reach,cost,ctr
+2025-02-18T11:25:46: impressions,clicks,reach,cost impressions,clicks,cpm,cpc,reach,cost,ctr
+2025-02-18T11:26:20: Backend running at 8000
+2025-02-18T11:26:20: db connected
+2025-02-18T11:26:24: access impressions,clicks,reach,cost impressions,clicks,cpm,cpc,reach,cost,ctr
+2025-02-18T11:26:25: access impressions,clicks,reach,cost impressions,clicks,cpm,cpc,reach,cost,ctr
+2025-02-18T11:26:25: access impressions,clicks,reach,cost impressions,clicks,cpm,cpc,reach,cost,ctr
+2025-02-18T11:27:13: Backend running at 8000
+2025-02-18T11:27:13: db connected
+2025-02-18T11:27:19: access {
+2025-02-18T11:27:19:   camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T11:27:19:   client_name: 'Puma',
+2025-02-18T11:27:19:   campaign_name: 'PUMA DIVE',
+2025-02-18T11:27:19:   start_date: 2025-02-17T18:30:00.000Z,
+2025-02-18T11:27:19:   end_date: 2025-02-20T18:30:00.000Z,
+2025-02-18T11:27:19:   camp_type: 'banner',
+2025-02-18T11:27:19:   planned_impressions: 10000,
+2025-02-18T11:27:19:   planned_cpm: 2,
+2025-02-18T11:27:19:   planned_clicks: 4600,
+2025-02-18T11:27:19:   planned_cpc: 6,
+2025-02-18T11:27:19:   ctr: 0,
+2025-02-18T11:27:19:   reach: 0,
+2025-02-18T11:27:19:   planned_budget: 300000,
+2025-02-18T11:27:19:   summary_access: 'impressions,clicks,reach,cost',
+2025-02-18T11:27:19:   report_access: 'impressions,clicks,cpm,cpc,reach,cost,ctr',
+2025-02-18T11:27:19:   client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T11:27:19: }
+2025-02-18T11:27:19: access {
+2025-02-18T11:27:19:   camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T11:27:19:   client_name: 'Puma',
+2025-02-18T11:27:19:   campaign_name: 'PUMA DIVE',
+2025-02-18T11:27:19:   start_date: 2025-02-17T18:30:00.000Z,
+2025-02-18T11:27:19:   end_date: 2025-02-20T18:30:00.000Z,
+2025-02-18T11:27:19:   camp_type: 'banner',
+2025-02-18T11:27:19:   planned_impressions: 10000,
+2025-02-18T11:27:19:   planned_cpm: 2,
+2025-02-18T11:27:19:   planned_clicks: 4600,
+2025-02-18T11:27:19:   planned_cpc: 6,
+2025-02-18T11:27:19:   ctr: 0,
+2025-02-18T11:27:19:   reach: 0,
+2025-02-18T11:27:19:   planned_budget: 300000,
+2025-02-18T11:27:19:   summary_access: 'impressions,clicks,reach,cost',
+2025-02-18T11:27:19:   report_access: 'impressions,clicks,cpm,cpc,reach,cost,ctr',
+2025-02-18T11:27:19:   client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T11:27:19: }
+2025-02-18T11:28:08: Backend running at 8000
+2025-02-18T11:28:08: db connected
+2025-02-18T11:28:10: access impressions,clicks,reach,cost re: impressions,clicks,cpm,cpc,reach,cost,ctr
+2025-02-18T11:28:11: access impressions,clicks,reach,cost re: impressions,clicks,cpm,cpc,reach,cost,ctr
+2025-02-18T11:28:11: access impressions,clicks,reach,cost re: impressions,clicks,cpm,cpc,reach,cost,ctr
+2025-02-18T11:28:44: Backend running at 8000
+2025-02-18T11:28:44: db connected
+2025-02-18T11:28:48: date,`impressions`,`clicks`,`cpm`,`cpc`,`reach`,`cost`,`ctr`
+2025-02-18T11:28:48: date,`impressions`,`clicks`,`cpm`,`cpc`,`reach`,`cost`,`ctr`
+2025-02-18T11:30:57: Backend running at 8000
+2025-02-18T11:30:57: db connected
+2025-02-18T11:31:02: [ 'impressions', 'clicks', 'reach', 'cost' ]
+2025-02-18T11:31:02: [ 'impressions', 'clicks', 'reach', 'cost' ]
+2025-02-18T11:34:45: Backend running at 8000
+2025-02-18T11:34:45: db connected
+2025-02-18T11:34:50: insights {
+2025-02-18T11:34:50:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:34:50:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:34:50:   cost: { planned: undefined, actual: 264400 },
+2025-02-18T11:34:50:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:34:50: }
+2025-02-18T11:34:50: insights {
+2025-02-18T11:34:50:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:34:50:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:34:50:   cost: { planned: undefined, actual: 264400 },
+2025-02-18T11:34:50:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:34:50: }
+2025-02-18T11:34:50: insights {
+2025-02-18T11:34:50:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:34:50:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:34:50:   cost: { planned: undefined, actual: 264400 },
+2025-02-18T11:34:50:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:34:50: }
+2025-02-18T11:35:25: Backend running at 8000
+2025-02-18T11:35:25: db connected
+2025-02-18T11:35:30: insights {
+2025-02-18T11:35:30:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:35:30:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:35:30:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:35:30:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:35:30: }
+2025-02-18T11:35:30: insights {
+2025-02-18T11:35:30:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:35:30:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:35:30:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:35:30:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:35:30: }
+2025-02-18T11:37:19: insights {
+2025-02-18T11:37:19:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:37:19:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:37:19:   cpm: { planned: 2, actual: 105.97 },
+2025-02-18T11:37:19:   cpc: { planned: 6, actual: 32 },
+2025-02-18T11:37:19:   ctr: { planned: undefined, actual: 1.32 },
+2025-02-18T11:37:19:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:37:19:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:37:19: }
+2025-02-18T11:37:19: insights {
+2025-02-18T11:37:19:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:37:19:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:37:19:   cpm: { planned: 2, actual: 105.97 },
+2025-02-18T11:37:19:   cpc: { planned: 6, actual: 32 },
+2025-02-18T11:37:19:   ctr: { planned: undefined, actual: 1.32 },
+2025-02-18T11:37:19:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:37:19:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:37:19: }
+2025-02-18T11:52:35: Backend running at 8000
+2025-02-18T11:52:35: db connected
+2025-02-18T11:52:37: insights {
+2025-02-18T11:52:37:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:52:37:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:52:37:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:52:37:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:52:37:   ctr: { planned: 0, actual: 0 },
+2025-02-18T11:52:37:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:52:37:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:52:37: }
+2025-02-18T11:52:37: insights {
+2025-02-18T11:52:37:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:52:37:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:52:37:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:52:37:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:52:37:   ctr: { planned: 0, actual: 0 },
+2025-02-18T11:52:37:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:52:37:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:52:37: }
+2025-02-18T11:52:37: insights {
+2025-02-18T11:52:37:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:52:37:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:52:37:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:52:37:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:52:37:   ctr: { planned: 0, actual: 0 },
+2025-02-18T11:52:37:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:52:37:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:52:37: }
+2025-02-18T11:53:56: Backend running at 8000
+2025-02-18T11:53:56: db connected
+2025-02-18T11:54:12: insights {
+2025-02-18T11:54:12:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:54:12:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:54:12:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:54:12:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:54:12:   ctr: { planned: '0%', actual: '0%' },
+2025-02-18T11:54:12:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:54:12:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:54:12: }
+2025-02-18T11:54:12: insights {
+2025-02-18T11:54:12:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:54:12:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:54:12:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:54:12:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:54:12:   ctr: { planned: '0%', actual: '0%' },
+2025-02-18T11:54:12:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:54:12:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:54:12: }
+2025-02-18T11:54:13: insights {
+2025-02-18T11:54:13:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:54:13:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:54:13:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:54:13:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:54:13:   ctr: { planned: '0%', actual: '0%' },
+2025-02-18T11:54:13:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:54:13:   reach: { planned: undefined, actual: 3472834 }
+2025-02-18T11:54:13: }
+2025-02-18T11:56:46: Backend running at 8000
+2025-02-18T11:56:47: db connected
+2025-02-18T11:56:53: insights {
+2025-02-18T11:56:53:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:56:53:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:56:53:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:56:53:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:56:53:   ctr: { planned: '0%', actual: '0%' },
+2025-02-18T11:56:53:   cost: { planned: undefined, actual: 264400 },
+2025-02-18T11:56:53:   reach: { planned: undefined, actual: 0 }
+2025-02-18T11:56:53: }
+2025-02-18T11:56:53: insights {
+2025-02-18T11:56:53:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:56:53:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:56:53:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:56:53:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:56:53:   ctr: { planned: '0%', actual: '0%' },
+2025-02-18T11:56:53:   cost: { planned: undefined, actual: 264400 },
+2025-02-18T11:56:53:   reach: { planned: undefined, actual: 0 }
+2025-02-18T11:56:53: }
+2025-02-18T11:57:52: Backend running at 8000
+2025-02-18T11:57:52: db connected
+2025-02-18T11:57:59: insights {
+2025-02-18T11:57:59:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:57:59:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:57:59:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:57:59:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:57:59:   ctr: { planned: '0%', actual: '0%' },
+2025-02-18T11:57:59:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:57:59:   reach: { planned: undefined, actual: 0 }
+2025-02-18T11:57:59: }
+2025-02-18T11:57:59: insights {
+2025-02-18T11:57:59:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T11:57:59:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T11:57:59:   cpm: { planned: 2, actual: 0 },
+2025-02-18T11:57:59:   cpc: { planned: 6, actual: 8 },
+2025-02-18T11:57:59:   ctr: { planned: '0%', actual: '0%' },
+2025-02-18T11:57:59:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T11:57:59:   reach: { planned: undefined, actual: 0 }
+2025-02-18T11:57:59: }
+2025-02-18T12:01:01: Backend running at 8000
+2025-02-18T12:01:01: db connected
+2025-02-18T12:01:10: insights {
+2025-02-18T12:01:10:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:01:10:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T12:01:10:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:01:10:   cpc: { planned: 6, actual: 8 },
+2025-02-18T12:01:10:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:01:10:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:01:10:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:01:10: }
+2025-02-18T12:01:10: insights {
+2025-02-18T12:01:10:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:01:10:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T12:01:10:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:01:10:   cpc: { planned: 6, actual: 8 },
+2025-02-18T12:01:10:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:01:10:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:01:10:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:01:10: }
+2025-02-18T12:01:10: insights {
+2025-02-18T12:01:10:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:01:10:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T12:01:10:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:01:10:   cpc: { planned: 6, actual: 8 },
+2025-02-18T12:01:10:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:01:10:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:01:10:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:01:10: }
+2025-02-18T12:04:04: insights {
+2025-02-18T12:04:04:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:04:04:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T12:04:04:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:04:04:   cpc: { planned: 6, actual: 8 },
+2025-02-18T12:04:04:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:04:04:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:04:04:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:04:04: }
+2025-02-18T12:04:04: insights {
+2025-02-18T12:04:04:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:04:04:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T12:04:04:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:04:04:   cpc: { planned: 6, actual: 8 },
+2025-02-18T12:04:04:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:04:04:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:04:04:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:04:04: }
+2025-02-18T12:06:34: insights {
+2025-02-18T12:06:34:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:06:34:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T12:06:34:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:06:34:   cpc: { planned: 6, actual: 8 },
+2025-02-18T12:06:34:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:06:34:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:06:34:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:06:34: }
+2025-02-18T12:06:34: insights {
+2025-02-18T12:06:34:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:06:34:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T12:06:34:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:06:34:   cpc: { planned: 6, actual: 8 },
+2025-02-18T12:06:34:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:06:34:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:06:34:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:06:34: }
+2025-02-18T12:06:34: insights {
+2025-02-18T12:06:34:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:06:34:   clicks: { planned: 4600, actual: 33050 },
+2025-02-18T12:06:34:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:06:34:   cpc: { planned: 6, actual: 8 },
+2025-02-18T12:06:34:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:06:34:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:06:34:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:06:34: }
+2025-02-18T12:08:17: insights {
+2025-02-18T12:08:17:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:08:17:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:08:17:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:08:17:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:08:17: }
+2025-02-18T12:08:17: insights {
+2025-02-18T12:08:17:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:08:17:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:08:17:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:08:17:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:08:17: }
+2025-02-18T12:12:27: Backend running at 8000
+2025-02-18T12:12:27: db connected
+2025-02-18T12:12:31: Backend running at 8000
+2025-02-18T12:12:31: db connected
+2025-02-18T12:20:54: Backend running at 8000
+2025-02-18T12:20:54: db connected
+2025-02-18T12:20:54: {
+2025-02-18T12:20:54:   impressions: { planned: 10000, actual: 0 },
+2025-02-18T12:20:54:   cpm: { planned: 2, actual: NaN },
+2025-02-18T12:20:54:   cost: { planned: 300000, actual: 0 },
+2025-02-18T12:20:54:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:20:54: }
+2025-02-18T12:20:58: Backend running at 8000
+2025-02-18T12:20:58: db connected
+2025-02-18T12:21:00: {
+2025-02-18T12:21:00:   impressions: { planned: 10000, actual: 0 },
+2025-02-18T12:21:00:   cpm: { planned: 2, actual: NaN },
+2025-02-18T12:21:00:   cost: { planned: 300000, actual: 0 },
+2025-02-18T12:21:00:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:21:00: }
+2025-02-18T12:22:08: Backend running at 8000
+2025-02-18T12:22:08: db connected
+2025-02-18T12:22:16: {
+2025-02-18T12:22:16:   impressions: { planned: 10000, actual: 0 },
+2025-02-18T12:22:16:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:22:16:   cost: { planned: 300000, actual: 0 },
+2025-02-18T12:22:16:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:22:16: }
+2025-02-18T12:25:37: Error: Unknown column 'cpvc' in 'field list'
+2025-02-18T12:25:37:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-02-18T12:25:37:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:148:48)
+2025-02-18T12:25:37:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-02-18T12:25:37:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+2025-02-18T12:25:37:   code: 'ER_BAD_FIELD_ERROR',
+2025-02-18T12:25:37:   errno: 1054,
+2025-02-18T12:25:37:   sql: "insert into daily_data_report (client_name, campaign_name, camp_type, date,impressions,clicks,video_views,cost,reach,`25%_video_views`, `50%_video_views`,`75%_video_views`,complete_video_views,ctr,cpm, cpc,cpv, cpvc, camp_id, client_id) values('Puma', 'Rainy Sell Adv', 'video', '2025-02-07', '5577493', '19722', '19722', '157776', '1667213', '14039', '9223', '63557', '3864', 0.35, 28.29, 8, 8, 40.83, '246098b9-543c-41c1-b0ad-c04e30e7e88c', 'c0cc6e97-f717-4050-9664-76ac0c9a7cca')",
+2025-02-18T12:25:37:   sqlState: '42S22',
+2025-02-18T12:25:37:   sqlMessage: "Unknown column 'cpvc' in 'field list'"
+2025-02-18T12:25:37: }
+2025-02-18T12:28:02: Backend running at 8000
+2025-02-18T12:28:02: db connected
+2025-02-18T12:29:17: Backend running at 8000
+2025-02-18T12:29:17: db connected
+2025-02-18T12:40:00: Backend running at 8000
+2025-02-18T12:40:00: db connected
+2025-02-18T12:40:04: insights {
+2025-02-18T12:40:04:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:40:04:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:40:04:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:40:04:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:40:04: }
+2025-02-18T12:40:04: insights {
+2025-02-18T12:40:04:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:40:04:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:40:04:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:40:04:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:40:04: }
+2025-02-18T12:40:04: insights {
+2025-02-18T12:40:04:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:40:04:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:40:04:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:40:04:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:40:04: }
+2025-02-18T12:40:31: Backend running at 8000
+2025-02-18T12:40:31: db connected
+2025-02-18T12:40:34: insights {
+2025-02-18T12:40:34:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:40:34:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:40:34:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:40:34:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:40:34: }
+2025-02-18T12:40:34: insights {
+2025-02-18T12:40:34:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:40:34:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:40:34:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:40:34:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:40:34: }
+2025-02-18T12:40:34: insights {
+2025-02-18T12:40:34:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:40:34:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:40:34:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:40:34:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:40:34: }
+2025-02-18T12:40:40: Backend running at 8000
+2025-02-18T12:40:40: db connected
+2025-02-18T12:40:40: insights {
+2025-02-18T12:40:40:   impressions: { planned: 0, actual: 5577493 },
+2025-02-18T12:40:40:   clicks: { planned: 0, actual: 19722 },
+2025-02-18T12:40:40:   video_views: { planned: 0, actual: NaN },
+2025-02-18T12:40:40:   complete_video_views: { planned: 0, actual: 3864 },
+2025-02-18T12:40:40:   cpm: { planned: 0, actual: 0 },
+2025-02-18T12:40:40:   cpc: { planned: 0, actual: 8 },
+2025-02-18T12:40:40:   cpv: { planned: 0, actual: NaN },
+2025-02-18T12:40:40:   cpcv: { planned: 0, actual: 40.83 },
+2025-02-18T12:40:40:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:40:40:   cost: { planned: 0, actual: 157776 },
+2025-02-18T12:40:40:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:40:40: }
+2025-02-18T12:46:47: Backend running at 8000
+2025-02-18T12:46:47: db connected
+2025-02-18T12:46:55: insights {
+2025-02-18T12:46:55:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:46:55:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:46:55:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:46:55:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:46:55: }
+2025-02-18T12:46:56: insights {
+2025-02-18T12:46:56:   impressions: { planned: 0, actual: 5577493 },
+2025-02-18T12:46:56:   clicks: { planned: 0, actual: 19722 },
+2025-02-18T12:46:56:   video_views: { planned: 0, actual: NaN },
+2025-02-18T12:46:56:   complete_video_views: { planned: 0, actual: 3864 },
+2025-02-18T12:46:56:   cpm: { planned: 0, actual: 0 },
+2025-02-18T12:46:56:   cpc: { planned: 0, actual: 8 },
+2025-02-18T12:46:56:   cpv: { planned: 0, actual: NaN },
+2025-02-18T12:46:56:   cpcv: { planned: 0, actual: 40.83 },
+2025-02-18T12:46:56:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:46:56:   cost: { planned: 0, actual: 157776 },
+2025-02-18T12:46:56:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:46:56: }
+2025-02-18T12:48:01: Backend running at 8000
+2025-02-18T12:48:01: db connected
+2025-02-18T12:48:03: report: [
+2025-02-18T12:48:03:   {
+2025-02-18T12:48:03:     date: 2024-10-06T18:30:00.000Z,
+2025-02-18T12:48:03:     impressions: 5577493,
+2025-02-18T12:48:03:     clicks: 19722,
+2025-02-18T12:48:03:     cpm: 28.29,
+2025-02-18T12:48:03:     cpc: 8,
+2025-02-18T12:48:03:     cost: 157776
+2025-02-18T12:48:03:   },
+2025-02-18T12:48:03:   {
+2025-02-18T12:48:03:     date: 2024-10-07T18:30:00.000Z,
+2025-02-18T12:48:03:     impressions: 2406139,
+2025-02-18T12:48:03:     clicks: 8653,
+2025-02-18T12:48:03:     cpm: 28.77,
+2025-02-18T12:48:03:     cpc: 8,
+2025-02-18T12:48:03:     cost: 69224
+2025-02-18T12:48:03:   },
+2025-02-18T12:48:03:   {
+2025-02-18T12:48:03:     date: 2024-10-09T18:30:00.000Z,
+2025-02-18T12:48:03:     impressions: 1060335,
+2025-02-18T12:48:03:     clicks: 3327,
+2025-02-18T12:48:03:     cpm: 25.1,
+2025-02-18T12:48:03:     cpc: 8,
+2025-02-18T12:48:03:     cost: 26616
+2025-02-18T12:48:03:   },
+2025-02-18T12:48:03:   {
+2025-02-18T12:48:03:     date: 2024-10-10T18:30:00.000Z,
+2025-02-18T12:48:03:     impressions: 452970,
+2025-02-18T12:48:03:     clicks: 1348,
+2025-02-18T12:48:03:     cpm: 23.81,
+2025-02-18T12:48:03:     cpc: 8,
+2025-02-18T12:48:03:     cost: 10784
+2025-02-18T12:48:03:   }
+2025-02-18T12:48:03: ] summmary: [
+2025-02-18T12:48:03:   {
+2025-02-18T12:48:03:     date: 2024-10-06T18:30:00.000Z,
+2025-02-18T12:48:03:     impressions: 5577493,
+2025-02-18T12:48:03:     clicks: 19722,
+2025-02-18T12:48:03:     cpm: 28.29,
+2025-02-18T12:48:03:     cpc: 8,
+2025-02-18T12:48:03:     cost: 157776
+2025-02-18T12:48:03:   },
+2025-02-18T12:48:03:   {
+2025-02-18T12:48:03:     date: 2024-10-07T18:30:00.000Z,
+2025-02-18T12:48:03:     impressions: 2406139,
+2025-02-18T12:48:03:     clicks: 8653,
+2025-02-18T12:48:03:     cpm: 28.77,
+2025-02-18T12:48:03:     cpc: 8,
+2025-02-18T12:48:03:     cost: 69224
+2025-02-18T12:48:03:   },
+2025-02-18T12:48:03:   {
+2025-02-18T12:48:03:     date: 2024-10-09T18:30:00.000Z,
+2025-02-18T12:48:03:     impressions: 1060335,
+2025-02-18T12:48:03:     clicks: 3327,
+2025-02-18T12:48:03:     cpm: 25.1,
+2025-02-18T12:48:03:     cpc: 8,
+2025-02-18T12:48:03:     cost: 26616
+2025-02-18T12:48:03:   },
+2025-02-18T12:48:03:   {
+2025-02-18T12:48:03:     date: 2024-10-10T18:30:00.000Z,
+2025-02-18T12:48:03:     impressions: 452970,
+2025-02-18T12:48:03:     clicks: 1348,
+2025-02-18T12:48:03:     cpm: 23.81,
+2025-02-18T12:48:03:     cpc: 8,
+2025-02-18T12:48:03:     cost: 10784
+2025-02-18T12:48:03:   }
+2025-02-18T12:48:03: ]
+2025-02-18T12:48:03: insights {
+2025-02-18T12:48:03:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:48:03:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:48:03:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:48:03:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:48:03: }
+2025-02-18T12:48:17: Backend running at 8000
+2025-02-18T12:48:18: db connected
+2025-02-18T12:48:42: Backend running at 8000
+2025-02-18T12:48:42: db connected
+2025-02-18T12:48:47: report: [
+2025-02-18T12:48:47:   {
+2025-02-18T12:48:47:     date: 2025-02-06T18:30:00.000Z,
+2025-02-18T12:48:47:     impressions: 5577493,
+2025-02-18T12:48:47:     clicks: 19722,
+2025-02-18T12:48:47:     complete_video_views: 3864,
+2025-02-18T12:48:47:     cpm: 28.29,
+2025-02-18T12:48:47:     cpc: 8,
+2025-02-18T12:48:47:     cpcv: 40.83,
+2025-02-18T12:48:47:     reach: 1667213,
+2025-02-18T12:48:47:     cost: 157776
+2025-02-18T12:48:47:   }
+2025-02-18T12:48:47: ] summmary: [
+2025-02-18T12:48:47:   {
+2025-02-18T12:48:47:     sr_no: 22,
+2025-02-18T12:48:47:     client_name: 'Puma',
+2025-02-18T12:48:47:     campaign_name: 'Rainy Sell Adv',
+2025-02-18T12:48:47:     camp_type: 'video',
+2025-02-18T12:48:47:     date: 2025-02-06T18:30:00.000Z,
+2025-02-18T12:48:47:     impressions: 5577493,
+2025-02-18T12:48:47:     clicks: 19722,
+2025-02-18T12:48:47:     cost: 157776,
+2025-02-18T12:48:47:     reach: 1667213,
+2025-02-18T12:48:47:     ctr: 0.35,
+2025-02-18T12:48:47:     cpm: 28.29,
+2025-02-18T12:48:47:     cpc: 8,
+2025-02-18T12:48:47:     video_views: 19722,
+2025-02-18T12:48:47:     '25%_video_views': 14039,
+2025-02-18T12:48:47:     '50%_video_views': 9223,
+2025-02-18T12:48:47:     '75%_video_views': 63557,
+2025-02-18T12:48:47:     complete_video_views: 3864,
+2025-02-18T12:48:47:     cpv: 8,
+2025-02-18T12:48:47:     cpcv: 40.83,
+2025-02-18T12:48:47:     camp_id: '246098b9-543c-41c1-b0ad-c04e30e7e88c',
+2025-02-18T12:48:47:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T12:48:47:   }
+2025-02-18T12:48:47: ]
+2025-02-18T12:48:47: insights {
+2025-02-18T12:48:47:   impressions: { planned: 0, actual: 5577493 },
+2025-02-18T12:48:47:   clicks: { planned: 0, actual: 19722 },
+2025-02-18T12:48:47:   video_views: { planned: 0, actual: 19722 },
+2025-02-18T12:48:47:   complete_video_views: { planned: 0, actual: 3864 },
+2025-02-18T12:48:47:   cpm: { planned: 0, actual: 0 },
+2025-02-18T12:48:47:   cpc: { planned: 0, actual: 8 },
+2025-02-18T12:48:47:   cpv: { planned: 0, actual: 8 },
+2025-02-18T12:48:47:   cpcv: { planned: 0, actual: 40.83 },
+2025-02-18T12:48:47:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:48:47:   cost: { planned: 0, actual: 157776 },
+2025-02-18T12:48:47:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:48:47: }
+2025-02-18T12:52:14: insights {
+2025-02-18T12:52:14:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:52:14:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:52:14:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:52:14:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:52:14: }
+2025-02-18T12:52:14: insights {
+2025-02-18T12:52:14:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:52:14:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:52:14:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:52:14:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:52:14: }
+2025-02-18T12:52:14: insights {
+2025-02-18T12:52:14:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T12:52:14:   cpm: { planned: 2, actual: 0 },
+2025-02-18T12:52:14:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T12:52:14:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:52:14: }
+2025-02-18T12:52:18: report: [
+2025-02-18T12:52:18:   {
+2025-02-18T12:52:18:     date: 2025-02-06T18:30:00.000Z,
+2025-02-18T12:52:18:     impressions: 5577493,
+2025-02-18T12:52:18:     clicks: 19722,
+2025-02-18T12:52:18:     complete_video_views: 3864,
+2025-02-18T12:52:18:     cpm: 28.29,
+2025-02-18T12:52:18:     cpc: 8,
+2025-02-18T12:52:18:     cpcv: 40.83,
+2025-02-18T12:52:18:     reach: 1667213,
+2025-02-18T12:52:18:     cost: 157776
+2025-02-18T12:52:18:   }
+2025-02-18T12:52:18: ] summmary: [
+2025-02-18T12:52:18:   {
+2025-02-18T12:52:18:     sr_no: 22,
+2025-02-18T12:52:18:     client_name: 'Puma',
+2025-02-18T12:52:18:     campaign_name: 'Rainy Sell Adv',
+2025-02-18T12:52:18:     camp_type: 'video',
+2025-02-18T12:52:18:     date: 2025-02-06T18:30:00.000Z,
+2025-02-18T12:52:18:     impressions: 5577493,
+2025-02-18T12:52:18:     clicks: 19722,
+2025-02-18T12:52:18:     cost: 157776,
+2025-02-18T12:52:18:     reach: 1667213,
+2025-02-18T12:52:18:     ctr: 0.35,
+2025-02-18T12:52:18:     cpm: 28.29,
+2025-02-18T12:52:18:     cpc: 8,
+2025-02-18T12:52:18:     video_views: 19722,
+2025-02-18T12:52:18:     '25%_video_views': 14039,
+2025-02-18T12:52:18:     '50%_video_views': 9223,
+2025-02-18T12:52:18:     '75%_video_views': 63557,
+2025-02-18T12:52:18:     complete_video_views: 3864,
+2025-02-18T12:52:18:     cpv: 8,
+2025-02-18T12:52:18:     cpcv: 40.83,
+2025-02-18T12:52:18:     camp_id: '246098b9-543c-41c1-b0ad-c04e30e7e88c',
+2025-02-18T12:52:18:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T12:52:18:   }
+2025-02-18T12:52:18: ]
+2025-02-18T12:52:18: insights {
+2025-02-18T12:52:18:   impressions: { planned: 0, actual: 5577493 },
+2025-02-18T12:52:18:   clicks: { planned: 0, actual: 19722 },
+2025-02-18T12:52:18:   video_views: { planned: 0, actual: 19722 },
+2025-02-18T12:52:18:   complete_video_views: { planned: 0, actual: 3864 },
+2025-02-18T12:52:18:   cpm: { planned: 0, actual: 0 },
+2025-02-18T12:52:18:   cpc: { planned: 0, actual: 8 },
+2025-02-18T12:52:18:   cpv: { planned: 0, actual: 8 },
+2025-02-18T12:52:18:   cpcv: { planned: 0, actual: 40.83 },
+2025-02-18T12:52:18:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T12:52:18:   cost: { planned: 0, actual: 157776 },
+2025-02-18T12:52:18:   reach: { planned: undefined, actual: 0 }
+2025-02-18T12:52:18: }
+2025-02-18T18:49:48: re-connecting
+2025-02-18T19:00:05: report: [
+2025-02-18T19:00:05:   {
+2025-02-18T19:00:05:     date: 2024-10-06T18:30:00.000Z,
+2025-02-18T19:00:05:     impressions: 5577493,
+2025-02-18T19:00:05:     clicks: 19722,
+2025-02-18T19:00:05:     cpm: 28.29,
+2025-02-18T19:00:05:     cpc: 8,
+2025-02-18T19:00:05:     cost: 157776
+2025-02-18T19:00:05:   },
+2025-02-18T19:00:05:   {
+2025-02-18T19:00:05:     date: 2024-10-07T18:30:00.000Z,
+2025-02-18T19:00:05:     impressions: 2406139,
+2025-02-18T19:00:05:     clicks: 8653,
+2025-02-18T19:00:05:     cpm: 28.77,
+2025-02-18T19:00:05:     cpc: 8,
+2025-02-18T19:00:05:     cost: 69224
+2025-02-18T19:00:05:   },
+2025-02-18T19:00:05:   {
+2025-02-18T19:00:05:     date: 2024-10-09T18:30:00.000Z,
+2025-02-18T19:00:05:     impressions: 1060335,
+2025-02-18T19:00:05:     clicks: 3327,
+2025-02-18T19:00:05:     cpm: 25.1,
+2025-02-18T19:00:05:     cpc: 8,
+2025-02-18T19:00:05:     cost: 26616
+2025-02-18T19:00:05:   },
+2025-02-18T19:00:05:   {
+2025-02-18T19:00:05:     date: 2024-10-10T18:30:00.000Z,
+2025-02-18T19:00:05:     impressions: 452970,
+2025-02-18T19:00:05:     clicks: 1348,
+2025-02-18T19:00:05:     cpm: 23.81,
+2025-02-18T19:00:05:     cpc: 8,
+2025-02-18T19:00:05:     cost: 10784
+2025-02-18T19:00:05:   }
+2025-02-18T19:00:05: ] summmary: [
+2025-02-18T19:00:05:   {
+2025-02-18T19:00:05:     sr_no: 18,
+2025-02-18T19:00:05:     client_name: 'Puma',
+2025-02-18T19:00:05:     campaign_name: 'PUMA DIVE',
+2025-02-18T19:00:05:     camp_type: 'banner',
+2025-02-18T19:00:05:     date: 2024-10-06T18:30:00.000Z,
+2025-02-18T19:00:05:     impressions: 5577493,
+2025-02-18T19:00:05:     clicks: 19722,
+2025-02-18T19:00:05:     cost: 157776,
+2025-02-18T19:00:05:     reach: 1667213,
+2025-02-18T19:00:05:     ctr: 0.35,
+2025-02-18T19:00:05:     cpm: 28.29,
+2025-02-18T19:00:05:     cpc: 8,
+2025-02-18T19:00:05:     video_views: null,
+2025-02-18T19:00:05:     '25%_video_views': null,
+2025-02-18T19:00:05:     '50%_video_views': null,
+2025-02-18T19:00:05:     '75%_video_views': null,
+2025-02-18T19:00:05:     complete_video_views: null,
+2025-02-18T19:00:05:     cpv: null,
+2025-02-18T19:00:05:     cpcv: null,
+2025-02-18T19:00:05:     camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T19:00:05:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:00:05:   },
+2025-02-18T19:00:05:   {
+2025-02-18T19:00:05:     sr_no: 19,
+2025-02-18T19:00:05:     client_name: 'Puma',
+2025-02-18T19:00:05:     campaign_name: 'PUMA DIVE',
+2025-02-18T19:00:05:     camp_type: 'banner',
+2025-02-18T19:00:05:     date: 2024-10-07T18:30:00.000Z,
+2025-02-18T19:00:05:     impressions: 2406139,
+2025-02-18T19:00:05:     clicks: 8653,
+2025-02-18T19:00:05:     cost: 69224,
+2025-02-18T19:00:05:     reach: 1076784,
+2025-02-18T19:00:05:     ctr: 0.36,
+2025-02-18T19:00:05:     cpm: 28.77,
+2025-02-18T19:00:05:     cpc: 8,
+2025-02-18T19:00:05:     video_views: null,
+2025-02-18T19:00:05:     '25%_video_views': null,
+2025-02-18T19:00:05:     '50%_video_views': null,
+2025-02-18T19:00:05:     '75%_video_views': null,
+2025-02-18T19:00:05:     complete_video_views: null,
+2025-02-18T19:00:05:     cpv: null,
+2025-02-18T19:00:05:     cpcv: null,
+2025-02-18T19:00:05:     camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T19:00:05:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:00:05:   },
+2025-02-18T19:00:05:   {
+2025-02-18T19:00:05:     sr_no: 21,
+2025-02-18T19:00:05:     client_name: 'Puma',
+2025-02-18T19:00:05:     campaign_name: 'PUMA DIVE',
+2025-02-18T19:00:05:     camp_type: 'banner',
+2025-02-18T19:00:05:     date: 2024-10-09T18:30:00.000Z,
+2025-02-18T19:00:05:     impressions: 1060335,
+2025-02-18T19:00:05:     clicks: 3327,
+2025-02-18T19:00:05:     cost: 26616,
+2025-02-18T19:00:05:     reach: 472255,
+2025-02-18T19:00:05:     ctr: 0.31,
+2025-02-18T19:00:05:     cpm: 25.1,
+2025-02-18T19:00:05:     cpc: 8,
+2025-02-18T19:00:05:     video_views: null,
+2025-02-18T19:00:05:     '25%_video_views': null,
+2025-02-18T19:00:05:     '50%_video_views': null,
+2025-02-18T19:00:05:     '75%_video_views': null,
+2025-02-18T19:00:05:     complete_video_views: null,
+2025-02-18T19:00:05:     cpv: null,
+2025-02-18T19:00:05:     cpcv: null,
+2025-02-18T19:00:05:     camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T19:00:05:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:00:05:   },
+2025-02-18T19:00:05:   {
+2025-02-18T19:00:05:     sr_no: 20,
+2025-02-18T19:00:05:     client_name: 'Puma',
+2025-02-18T19:00:05:     campaign_name: 'PUMA DIVE',
+2025-02-18T19:00:05:     camp_type: 'banner',
+2025-02-18T19:00:05:     date: 2024-10-10T18:30:00.000Z,
+2025-02-18T19:00:05:     impressions: 452970,
+2025-02-18T19:00:05:     clicks: 1348,
+2025-02-18T19:00:05:     cost: 10784,
+2025-02-18T19:00:05:     reach: 256582,
+2025-02-18T19:00:05:     ctr: 0.3,
+2025-02-18T19:00:05:     cpm: 23.81,
+2025-02-18T19:00:05:     cpc: 8,
+2025-02-18T19:00:05:     video_views: null,
+2025-02-18T19:00:05:     '25%_video_views': null,
+2025-02-18T19:00:05:     '50%_video_views': null,
+2025-02-18T19:00:05:     '75%_video_views': null,
+2025-02-18T19:00:05:     complete_video_views: null,
+2025-02-18T19:00:05:     cpv: null,
+2025-02-18T19:00:05:     cpcv: null,
+2025-02-18T19:00:05:     camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T19:00:05:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:00:05:   }
+2025-02-18T19:00:05: ]
+2025-02-18T19:00:05: insights {
+2025-02-18T19:00:05:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T19:00:05:   cpm: { planned: 2, actual: 0 },
+2025-02-18T19:00:05:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T19:00:05:   reach: { planned: undefined, actual: 0 }
+2025-02-18T19:00:05: }
+2025-02-18T19:01:52: report: [
+2025-02-18T19:01:52:   {
+2025-02-18T19:01:52:     date: 2025-02-06T18:30:00.000Z,
+2025-02-18T19:01:52:     impressions: 5577493,
+2025-02-18T19:01:52:     clicks: 19722,
+2025-02-18T19:01:52:     complete_video_views: 3864,
+2025-02-18T19:01:52:     cpm: 28.29,
+2025-02-18T19:01:52:     cpc: 8,
+2025-02-18T19:01:52:     cpcv: 40.83,
+2025-02-18T19:01:52:     reach: 1667213,
+2025-02-18T19:01:52:     cost: 157776
+2025-02-18T19:01:52:   }
+2025-02-18T19:01:52: ] summmary: [
+2025-02-18T19:01:52:   {
+2025-02-18T19:01:52:     sr_no: 22,
+2025-02-18T19:01:52:     client_name: 'Puma',
+2025-02-18T19:01:52:     campaign_name: 'Rainy Sell Adv',
+2025-02-18T19:01:52:     camp_type: 'video',
+2025-02-18T19:01:52:     date: 2025-02-06T18:30:00.000Z,
+2025-02-18T19:01:52:     impressions: 5577493,
+2025-02-18T19:01:52:     clicks: 19722,
+2025-02-18T19:01:52:     cost: 157776,
+2025-02-18T19:01:52:     reach: 1667213,
+2025-02-18T19:01:52:     ctr: 0.35,
+2025-02-18T19:01:52:     cpm: 28.29,
+2025-02-18T19:01:52:     cpc: 8,
+2025-02-18T19:01:52:     video_views: 19722,
+2025-02-18T19:01:52:     '25%_video_views': 14039,
+2025-02-18T19:01:52:     '50%_video_views': 9223,
+2025-02-18T19:01:52:     '75%_video_views': 63557,
+2025-02-18T19:01:52:     complete_video_views: 3864,
+2025-02-18T19:01:52:     cpv: 8,
+2025-02-18T19:01:52:     cpcv: 40.83,
+2025-02-18T19:01:52:     camp_id: '246098b9-543c-41c1-b0ad-c04e30e7e88c',
+2025-02-18T19:01:52:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:01:52:   }
+2025-02-18T19:01:52: ]
+2025-02-18T19:01:52: insights {
+2025-02-18T19:01:52:   impressions: { planned: 0, actual: 5577493 },
+2025-02-18T19:01:52:   clicks: { planned: 0, actual: 19722 },
+2025-02-18T19:01:52:   video_views: { planned: 0, actual: 19722 },
+2025-02-18T19:01:52:   complete_video_views: { planned: 0, actual: 3864 },
+2025-02-18T19:01:52:   cpm: { planned: 0, actual: 0 },
+2025-02-18T19:01:52:   cpc: { planned: 0, actual: 8 },
+2025-02-18T19:01:52:   cpv: { planned: 0, actual: 8 },
+2025-02-18T19:01:52:   cpcv: { planned: 0, actual: 40.83 },
+2025-02-18T19:01:52:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-18T19:01:52:   cost: { planned: 0, actual: 157776 },
+2025-02-18T19:01:52:   reach: { planned: undefined, actual: 0 }
+2025-02-18T19:01:52: }
+2025-02-18T19:02:05: report: [
+2025-02-18T19:02:05:   {
+2025-02-18T19:02:05:     date: 2024-10-06T18:30:00.000Z,
+2025-02-18T19:02:05:     impressions: 5577493,
+2025-02-18T19:02:05:     clicks: 19722,
+2025-02-18T19:02:05:     cpm: 28.29,
+2025-02-18T19:02:05:     cpc: 8,
+2025-02-18T19:02:05:     cost: 157776
+2025-02-18T19:02:05:   },
+2025-02-18T19:02:05:   {
+2025-02-18T19:02:05:     date: 2024-10-07T18:30:00.000Z,
+2025-02-18T19:02:05:     impressions: 2406139,
+2025-02-18T19:02:05:     clicks: 8653,
+2025-02-18T19:02:05:     cpm: 28.77,
+2025-02-18T19:02:05:     cpc: 8,
+2025-02-18T19:02:05:     cost: 69224
+2025-02-18T19:02:05:   },
+2025-02-18T19:02:05:   {
+2025-02-18T19:02:05:     date: 2024-10-09T18:30:00.000Z,
+2025-02-18T19:02:05:     impressions: 1060335,
+2025-02-18T19:02:05:     clicks: 3327,
+2025-02-18T19:02:05:     cpm: 25.1,
+2025-02-18T19:02:05:     cpc: 8,
+2025-02-18T19:02:05:     cost: 26616
+2025-02-18T19:02:05:   },
+2025-02-18T19:02:05:   {
+2025-02-18T19:02:05:     date: 2024-10-10T18:30:00.000Z,
+2025-02-18T19:02:05:     impressions: 452970,
+2025-02-18T19:02:05:     clicks: 1348,
+2025-02-18T19:02:05:     cpm: 23.81,
+2025-02-18T19:02:05:     cpc: 8,
+2025-02-18T19:02:05:     cost: 10784
+2025-02-18T19:02:05:   }
+2025-02-18T19:02:05: ] summmary: [
+2025-02-18T19:02:05:   {
+2025-02-18T19:02:05:     sr_no: 18,
+2025-02-18T19:02:05:     client_name: 'Puma',
+2025-02-18T19:02:05:     campaign_name: 'PUMA DIVE',
+2025-02-18T19:02:05:     camp_type: 'banner',
+2025-02-18T19:02:05:     date: 2024-10-06T18:30:00.000Z,
+2025-02-18T19:02:05:     impressions: 5577493,
+2025-02-18T19:02:05:     clicks: 19722,
+2025-02-18T19:02:05:     cost: 157776,
+2025-02-18T19:02:05:     reach: 1667213,
+2025-02-18T19:02:05:     ctr: 0.35,
+2025-02-18T19:02:05:     cpm: 28.29,
+2025-02-18T19:02:05:     cpc: 8,
+2025-02-18T19:02:05:     video_views: null,
+2025-02-18T19:02:05:     '25%_video_views': null,
+2025-02-18T19:02:05:     '50%_video_views': null,
+2025-02-18T19:02:05:     '75%_video_views': null,
+2025-02-18T19:02:05:     complete_video_views: null,
+2025-02-18T19:02:05:     cpv: null,
+2025-02-18T19:02:05:     cpcv: null,
+2025-02-18T19:02:05:     camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T19:02:05:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:02:05:   },
+2025-02-18T19:02:05:   {
+2025-02-18T19:02:05:     sr_no: 19,
+2025-02-18T19:02:05:     client_name: 'Puma',
+2025-02-18T19:02:05:     campaign_name: 'PUMA DIVE',
+2025-02-18T19:02:05:     camp_type: 'banner',
+2025-02-18T19:02:05:     date: 2024-10-07T18:30:00.000Z,
+2025-02-18T19:02:05:     impressions: 2406139,
+2025-02-18T19:02:05:     clicks: 8653,
+2025-02-18T19:02:05:     cost: 69224,
+2025-02-18T19:02:05:     reach: 1076784,
+2025-02-18T19:02:05:     ctr: 0.36,
+2025-02-18T19:02:05:     cpm: 28.77,
+2025-02-18T19:02:05:     cpc: 8,
+2025-02-18T19:02:05:     video_views: null,
+2025-02-18T19:02:05:     '25%_video_views': null,
+2025-02-18T19:02:05:     '50%_video_views': null,
+2025-02-18T19:02:05:     '75%_video_views': null,
+2025-02-18T19:02:05:     complete_video_views: null,
+2025-02-18T19:02:05:     cpv: null,
+2025-02-18T19:02:05:     cpcv: null,
+2025-02-18T19:02:05:     camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T19:02:05:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:02:05:   },
+2025-02-18T19:02:05:   {
+2025-02-18T19:02:05:     sr_no: 21,
+2025-02-18T19:02:05:     client_name: 'Puma',
+2025-02-18T19:02:05:     campaign_name: 'PUMA DIVE',
+2025-02-18T19:02:05:     camp_type: 'banner',
+2025-02-18T19:02:05:     date: 2024-10-09T18:30:00.000Z,
+2025-02-18T19:02:05:     impressions: 1060335,
+2025-02-18T19:02:05:     clicks: 3327,
+2025-02-18T19:02:05:     cost: 26616,
+2025-02-18T19:02:05:     reach: 472255,
+2025-02-18T19:02:05:     ctr: 0.31,
+2025-02-18T19:02:05:     cpm: 25.1,
+2025-02-18T19:02:05:     cpc: 8,
+2025-02-18T19:02:05:     video_views: null,
+2025-02-18T19:02:05:     '25%_video_views': null,
+2025-02-18T19:02:05:     '50%_video_views': null,
+2025-02-18T19:02:05:     '75%_video_views': null,
+2025-02-18T19:02:05:     complete_video_views: null,
+2025-02-18T19:02:05:     cpv: null,
+2025-02-18T19:02:05:     cpcv: null,
+2025-02-18T19:02:05:     camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T19:02:05:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:02:05:   },
+2025-02-18T19:02:05:   {
+2025-02-18T19:02:05:     sr_no: 20,
+2025-02-18T19:02:05:     client_name: 'Puma',
+2025-02-18T19:02:05:     campaign_name: 'PUMA DIVE',
+2025-02-18T19:02:05:     camp_type: 'banner',
+2025-02-18T19:02:05:     date: 2024-10-10T18:30:00.000Z,
+2025-02-18T19:02:05:     impressions: 452970,
+2025-02-18T19:02:05:     clicks: 1348,
+2025-02-18T19:02:05:     cost: 10784,
+2025-02-18T19:02:05:     reach: 256582,
+2025-02-18T19:02:05:     ctr: 0.3,
+2025-02-18T19:02:05:     cpm: 23.81,
+2025-02-18T19:02:05:     cpc: 8,
+2025-02-18T19:02:05:     video_views: null,
+2025-02-18T19:02:05:     '25%_video_views': null,
+2025-02-18T19:02:05:     '50%_video_views': null,
+2025-02-18T19:02:05:     '75%_video_views': null,
+2025-02-18T19:02:05:     complete_video_views: null,
+2025-02-18T19:02:05:     cpv: null,
+2025-02-18T19:02:05:     cpcv: null,
+2025-02-18T19:02:05:     camp_id: '82481c95-71ea-470e-983d-6c9279c722ca',
+2025-02-18T19:02:05:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-18T19:02:05:   }
+2025-02-18T19:02:05: ]
+2025-02-18T19:02:05: insights {
+2025-02-18T19:02:05:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T19:02:05:   cpm: { planned: 2, actual: 0 },
+2025-02-18T19:02:05:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T19:02:05:   reach: { planned: undefined, actual: 0 }
+2025-02-18T19:02:05: }
+2025-02-18T19:05:33: Backend running at 8000
+2025-02-18T19:05:33: db connected
+2025-02-18T19:05:38: Backend running at 8000
+2025-02-18T19:05:38: db connected
+2025-02-18T19:05:54: insights {
+2025-02-18T19:05:54:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T19:05:54:   cpm: { planned: 2, actual: 0 },
+2025-02-18T19:05:54:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T19:05:54:   reach: { planned: undefined, actual: 0 }
+2025-02-18T19:05:54: }
+2025-02-18T19:05:54: insights {
+2025-02-18T19:05:54:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T19:05:54:   cpm: { planned: 2, actual: 0 },
+2025-02-18T19:05:54:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T19:05:54:   reach: { planned: undefined, actual: 0 }
+2025-02-18T19:05:54: }
+2025-02-18T19:05:54: insights {
+2025-02-18T19:05:54:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-18T19:05:54:   cpm: { planned: 2, actual: 0 },
+2025-02-18T19:05:54:   cost: { planned: 300000, actual: 264400 },
+2025-02-18T19:05:54:   reach: { planned: undefined, actual: 0 }
+2025-02-18T19:05:54: }
+2025-02-18T19:09:10: Backend running at 8000
+2025-02-18T19:09:10: db connected
+2025-02-18T19:10:11: Backend running at 8000
+2025-02-18T19:10:11: db connected
+2025-02-18T21:01:37: Backend running at 8000
+2025-02-18T21:01:37: db connected
+2025-02-21T11:48:32: re-connecting
+2025-02-21T11:57:48: Backend running at 8000
+2025-02-21T11:57:48: db connected
+2025-02-21T11:57:51: Backend running at 8000
+2025-02-21T11:57:51: db connected
+2025-02-21T12:04:24: insights {
+2025-02-21T12:04:24:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-21T12:04:24:   cpm: { planned: 2, actual: 0 },
+2025-02-21T12:04:24:   cost: { planned: 300000, actual: 264400 },
+2025-02-21T12:04:24:   reach: { planned: undefined, actual: 0 }
+2025-02-21T12:04:24: }
+2025-02-21T12:04:24: insights {
+2025-02-21T12:04:24:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-21T12:04:24:   cpm: { planned: 2, actual: 0 },
+2025-02-21T12:04:24:   cost: { planned: 300000, actual: 264400 },
+2025-02-21T12:04:24:   reach: { planned: undefined, actual: 0 }
+2025-02-21T12:04:24: }
+2025-02-21T12:07:17: insights {
+2025-02-21T12:07:17:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-21T12:07:17:   cpm: { planned: 2, actual: 0 },
+2025-02-21T12:07:17:   cost: { planned: 300000, actual: 264400 },
+2025-02-21T12:07:17:   reach: { planned: undefined, actual: 0 }
+2025-02-21T12:07:17: }
+2025-02-21T12:07:17: insights {
+2025-02-21T12:07:17:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-21T12:07:17:   cpm: { planned: 2, actual: 0 },
+2025-02-21T12:07:17:   cost: { planned: 300000, actual: 264400 },
+2025-02-21T12:07:17:   reach: { planned: undefined, actual: 0 }
+2025-02-21T12:07:17: }
+2025-02-22T15:13:34: Backend running at 8000
+2025-02-22T15:13:34: db connected
+2025-02-22T15:13:43: Backend running at 8000
+2025-02-22T15:13:43: db connected
+2025-02-22T15:14:07: insights {
+2025-02-22T15:14:07:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-22T15:14:07:   cpm: { planned: 2, actual: 0 },
+2025-02-22T15:14:07:   cost: { planned: 300000, actual: 264400 },
+2025-02-22T15:14:07:   reach: { planned: undefined, actual: 0 }
+2025-02-22T15:14:07: }
+2025-02-22T15:14:07: insights {
+2025-02-22T15:14:07:   impressions: { planned: 10000, actual: 9496937 },
+2025-02-22T15:14:07:   cpm: { planned: 2, actual: 0 },
+2025-02-22T15:14:07:   cost: { planned: 300000, actual: 264400 },
+2025-02-22T15:14:07:   reach: { planned: undefined, actual: 0 }
+2025-02-22T15:14:07: }
+2025-02-22T15:14:24: report: [
+2025-02-22T15:14:24:   {
+2025-02-22T15:14:24:     date: 2025-02-06T18:30:00.000Z,
+2025-02-22T15:14:24:     impressions: 5577493,
+2025-02-22T15:14:24:     clicks: 19722,
+2025-02-22T15:14:24:     complete_video_views: 3864,
+2025-02-22T15:14:24:     cpm: 28.29,
+2025-02-22T15:14:24:     cpc: 8,
+2025-02-22T15:14:24:     cpcv: 40.83,
+2025-02-22T15:14:24:     reach: 1667213,
+2025-02-22T15:14:24:     cost: 157776
+2025-02-22T15:14:24:   }
+2025-02-22T15:14:24: ] summmary: [
+2025-02-22T15:14:24:   {
+2025-02-22T15:14:24:     sr_no: 22,
+2025-02-22T15:14:24:     client_name: 'Puma',
+2025-02-22T15:14:24:     campaign_name: 'Rainy Sell Adv',
+2025-02-22T15:14:24:     camp_type: 'video',
+2025-02-22T15:14:24:     date: 2025-02-06T18:30:00.000Z,
+2025-02-22T15:14:24:     impressions: 5577493,
+2025-02-22T15:14:24:     clicks: 19722,
+2025-02-22T15:14:24:     cost: 157776,
+2025-02-22T15:14:24:     reach: 1667213,
+2025-02-22T15:14:24:     ctr: 0.35,
+2025-02-22T15:14:24:     cpm: 28.29,
+2025-02-22T15:14:24:     cpc: 8,
+2025-02-22T15:14:24:     video_views: 19722,
+2025-02-22T15:14:24:     '25%_video_views': 14039,
+2025-02-22T15:14:24:     '50%_video_views': 9223,
+2025-02-22T15:14:24:     '75%_video_views': 63557,
+2025-02-22T15:14:24:     complete_video_views: 3864,
+2025-02-22T15:14:24:     cpv: 8,
+2025-02-22T15:14:24:     cpcv: 40.83,
+2025-02-22T15:14:24:     camp_id: '246098b9-543c-41c1-b0ad-c04e30e7e88c',
+2025-02-22T15:14:24:     client_id: 'c0cc6e97-f717-4050-9664-76ac0c9a7cca'
+2025-02-22T15:14:24:   }
+2025-02-22T15:14:24: ]
+2025-02-22T15:14:24: insights {
+2025-02-22T15:14:24:   impressions: { planned: 0, actual: 5577493 },
+2025-02-22T15:14:24:   clicks: { planned: 0, actual: 19722 },
+2025-02-22T15:14:24:   video_views: { planned: 0, actual: 19722 },
+2025-02-22T15:14:24:   complete_video_views: { planned: 0, actual: 3864 },
+2025-02-22T15:14:24:   cpm: { planned: 0, actual: 0 },
+2025-02-22T15:14:24:   cpc: { planned: 0, actual: 8 },
+2025-02-22T15:14:24:   cpv: { planned: 0, actual: 8 },
+2025-02-22T15:14:24:   cpcv: { planned: 0, actual: 40.83 },
+2025-02-22T15:14:24:   ctr: { planned: '0%', actual: '0.35%' },
+2025-02-22T15:14:24:   cost: { planned: 0, actual: 157776 },
+2025-02-22T15:14:24:   reach: { planned: undefined, actual: 0 }
+2025-02-22T15:14:24: }
+2025-02-22T15:21:10: insights {
+2025-02-22T15:21:10:   impressions: { planned: 8333333, actual: 9749362 },
+2025-02-22T15:21:10:   clicks: { planned: 50000, actual: 51858 },
+2025-02-22T15:21:10:   cpm: { planned: 50, actual: 0 },
+2025-02-22T15:21:10:   cpc: { planned: 8, actual: 8 },
+2025-02-22T15:21:10:   ctr: { planned: '0%', actual: '0.53%' },
+2025-02-22T15:21:10:   cost: { planned: 0, actual: 414864 },
+2025-02-22T15:21:10:   reach: { planned: undefined, actual: 3044980 }
+2025-02-22T15:21:10: }
+2025-02-22T15:21:10: insights {
+2025-02-22T15:21:10:   impressions: { planned: 8333333, actual: 9749362 },
+2025-02-22T15:21:10:   clicks: { planned: 50000, actual: 51858 },
+2025-02-22T15:21:10:   cpm: { planned: 50, actual: 0 },
+2025-02-22T15:21:10:   cpc: { planned: 8, actual: 8 },
+2025-02-22T15:21:10:   ctr: { planned: '0%', actual: '0.53%' },
+2025-02-22T15:21:10:   cost: { planned: 0, actual: 414864 },
+2025-02-22T15:21:10:   reach: { planned: undefined, actual: 3044980 }
+2025-02-22T15:21:10: }
+2025-02-22T15:24:08: insights {
+2025-02-22T15:24:08:   impressions: { planned: 8333333, actual: 9749362 },
+2025-02-22T15:24:08:   clicks: { planned: 50000, actual: 51858 },
+2025-02-22T15:24:08:   cpm: { planned: 50, actual: 0 },
+2025-02-22T15:24:08:   cpc: { planned: 8, actual: 8 },
+2025-02-22T15:24:08:   ctr: { planned: '0%', actual: '0.53%' },
+2025-02-22T15:24:08:   cost: { planned: 0, actual: 414864 },
+2025-02-22T15:24:08:   reach: { planned: undefined, actual: 3044980 }
+2025-02-22T15:24:08: }
+2025-02-22T15:24:08: insights {
+2025-02-22T15:24:08:   impressions: { planned: 8333333, actual: 9749362 },
+2025-02-22T15:24:08:   clicks: { planned: 50000, actual: 51858 },
+2025-02-22T15:24:08:   cpm: { planned: 50, actual: 0 },
+2025-02-22T15:24:08:   cpc: { planned: 8, actual: 8 },
+2025-02-22T15:24:08:   ctr: { planned: '0%', actual: '0.53%' },
+2025-02-22T15:24:08:   cost: { planned: 0, actual: 414864 },
+2025-02-22T15:24:08:   reach: { planned: undefined, actual: 3044980 }
+2025-02-22T15:24:08: }
+2025-02-22T15:24:08: insights {
+2025-02-22T15:24:08:   impressions: { planned: 8333333, actual: 9749362 },
+2025-02-22T15:24:08:   clicks: { planned: 50000, actual: 51858 },
+2025-02-22T15:24:08:   cpm: { planned: 50, actual: 0 },
+2025-02-22T15:24:08:   cpc: { planned: 8, actual: 8 },
+2025-02-22T15:24:08:   ctr: { planned: '0%', actual: '0.53%' },
+2025-02-22T15:24:08:   cost: { planned: 0, actual: 414864 },
+2025-02-22T15:24:08:   reach: { planned: undefined, actual: 3044980 }
+2025-02-22T15:24:08: }
+2025-02-22T15:25:34: Backend running at 8000
+2025-02-22T15:25:34: db connected
+2025-02-22T15:25:51: Backend running at 8000
+2025-02-22T15:25:51: db connected
+2025-02-22T15:26:22: Backend running at 8000
+2025-02-22T15:26:22: db connected
+2025-02-22T15:27:17: Backend running at 8000
+2025-02-22T15:27:17: db connected
+2025-02-22T15:28:29: Backend running at 8000
+2025-02-22T15:28:29: db connected
+2025-02-22T16:05:47: Backend running at 8000
+2025-02-22T16:05:47: db connected
+2025-02-22T16:08:38: Backend running at 8000
+2025-02-22T16:08:38: db connected
+2025-02-22T16:27:15: insights {
+2025-02-22T16:27:15:   impressions: { planned: 8333333, actual: 9749362 },
+2025-02-22T16:27:15:   clicks: { planned: 50000, actual: 51858 },
+2025-02-22T16:27:15:   cpm: { planned: 50, actual: 0 },
+2025-02-22T16:27:15:   cpc: { planned: 8, actual: 8 },
+2025-02-22T16:27:15:   ctr: { planned: '0%', actual: '0.53%' },
+2025-02-22T16:27:15:   cost: { planned: 0, actual: 414864 },
+2025-02-22T16:27:15:   reach: { planned: undefined, actual: 3044980 }
+2025-02-22T16:27:15: }
+2025-02-22T16:39:43: Backend running at 8000
+2025-02-22T16:39:43: db connected
+2025-02-22T16:39:45: Backend running at 8000
+2025-02-22T16:39:45: db connected
+2025-02-22T16:40:47: Backend running at 8000
+2025-02-22T16:40:47: db connected
+2025-02-22T20:40:46: re-connecting
+2025-02-22T21:10:08: Backend running at 8000
+2025-02-22T21:10:08: db connected
+2025-02-24T16:32:25: re-connecting
+2025-02-24T23:31:45: re-connecting
+2025-02-25T10:57:21: re-connecting
+2025-02-27T14:47:16: Backend running at 8000
+2025-02-27T14:47:16: db connected
+2025-02-27T14:47:24: Backend running at 8000
+2025-02-27T14:47:24: db connected
+2025-02-27T15:46:49: Backend running at 8000
+2025-02-27T15:46:49: db connected
+2025-02-27T16:57:09: Backend running at 8000
+2025-02-27T16:57:09: db connected
+2025-02-27T16:57:10: Backend running at 8000
+2025-02-27T16:57:10: db connected
+2025-02-27T16:57:34: Backend running at 8000
+2025-02-27T16:57:34: db connected
+2025-02-27T16:59:53: Backend running at 8000
+2025-02-27T16:59:53: db connected
+2025-02-27T17:00:07: Backend running at 8000
+2025-02-27T17:00:07: db connected
+2025-02-27T17:03:42: Backend running at 8000
+2025-02-27T17:03:42: db connected
+2025-02-27T17:17:17: Backend running at 8000
+2025-02-27T17:17:17: db connected
+2025-02-27T17:18:20: Backend running at 8000
+2025-02-27T17:18:20: db connected
+2025-02-27T17:20:02: Backend running at 8000
+2025-02-27T17:20:02: db connected
+2025-02-27T17:22:14: Backend running at 8000
+2025-02-27T17:22:14: db connected
+2025-02-27T17:39:18: undefined
+2025-02-27T17:40:32: Backend running at 8000
+2025-02-27T17:40:32: db connected
+2025-02-27T17:40:38: undefined
+2025-02-27T17:41:43: Backend running at 8000
+2025-02-27T17:41:43: db connected
+2025-02-27T17:41:47: undefined
+2025-02-27T17:42:36: Backend running at 8000
+2025-02-27T17:42:36: db connected
+2025-02-27T17:42:43: Backend running at 8000
+2025-02-27T17:42:43: db connected
+2025-02-27T17:42:51: [Object: null prototype] {
+2025-02-27T17:42:51:   logo: 'undefined',
+2025-02-27T17:42:51:   clientData: '{"clientName":"sky","clientUserName":"sky","password":"12345","clientEmail":"akashdandge100@gmail.com","dateOfJoining":"2025-02-25","logo":{"filename":"WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg"},"sendMail":"no"}'
+2025-02-27T17:42:51: }
+2025-02-27T17:51:12: [Object: null prototype] {
+2025-02-27T17:51:12:   clientData: '{"clientName":"sky","clientUserName":"sky","password":"12345","clientEmail":"akashdandge100@gmail.com","dateOfJoining":"2025-02-25","logo":{"filename":"WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg"},"sendMail":"no"}'
+2025-02-27T17:51:12: }
+2025-02-27T17:51:53: Backend running at 8000
+2025-02-27T17:51:53: db connected
+2025-02-27T17:51:57: [Object: null prototype] {
+2025-02-27T17:51:57:   clientData: '{"clientName":"sky","clientUserName":"sky","password":"12345","clientEmail":"akashdandge100@gmail.com","dateOfJoining":"2025-02-25","logo":{"filename":"WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg"},"sendMail":"no"}'
+2025-02-27T17:51:57: }
+2025-02-27T17:52:56: Backend running at 8000
+2025-02-27T17:52:56: db connected
+2025-02-27T17:52:59: undefined
+2025-02-27T17:53:52: Backend running at 8000
+2025-02-27T17:53:52: db connected
+2025-02-27T17:55:28: Backend running at 8000
+2025-02-27T17:55:28: db connected
+2025-02-27T17:55:48: Backend running at 8000
+2025-02-27T17:55:48: db connected
+2025-02-27T17:55:57: {
+2025-02-27T17:55:57:   fieldname: 'logo',
+2025-02-27T17:55:57:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T17:55:57:   encoding: '7bit',
+2025-02-27T17:55:57:   mimetype: 'image/jpeg',
+2025-02-27T17:55:57:   buffer: <Buffer ff d8 ff e0 00 10 4a 46 49 46 00 01 01 01 00 60 00 60 00 00 ff db 00 43 00 03 02 02 02 02 02 03 02 02 02 03 03 03 03 04 06 04 04 04 04 04 08 06 06 05 ... 16619 more bytes>,
+2025-02-27T17:55:57:   size: 16669
+2025-02-27T17:55:57: }
+2025-02-27T17:56:39: Backend running at 8000
+2025-02-27T17:56:40: db connected
+2025-02-27T17:56:59: Backend running at 8000
+2025-02-27T17:56:59: db connected
+2025-02-27T18:00:17: Backend running at 8000
+2025-02-27T18:00:17: db connected
+2025-02-27T18:00:19: Backend running at 8000
+2025-02-27T18:00:20: db connected
+2025-02-27T18:04:22: Backend running at 8000
+2025-02-27T18:04:22: db connected
+2025-02-27T18:05:10: Backend running at 8000
+2025-02-27T18:05:10: db connected
+2025-02-27T18:05:12: file {
+2025-02-27T18:05:12:   fieldname: 'logo',
+2025-02-27T18:05:12:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T18:05:12:   encoding: '7bit',
+2025-02-27T18:05:12:   mimetype: 'image/jpeg'
+2025-02-27T18:05:12: }
+2025-02-27T18:05:12: file {
+2025-02-27T18:05:12:   fieldname: 'logo',
+2025-02-27T18:05:12:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T18:05:12:   encoding: '7bit',
+2025-02-27T18:05:12:   mimetype: 'image/jpeg'
+2025-02-27T18:05:12: }
+2025-02-27T18:06:15: Backend running at 8000
+2025-02-27T18:06:15: db connected
+2025-02-27T18:06:17: file {
+2025-02-27T18:06:17:   fieldname: 'logo',
+2025-02-27T18:06:17:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T18:06:17:   encoding: '7bit',
+2025-02-27T18:06:17:   mimetype: 'image/jpeg'
+2025-02-27T18:06:17: }
+2025-02-27T18:06:17: file {
+2025-02-27T18:06:17:   fieldname: 'logo',
+2025-02-27T18:06:17:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T18:06:17:   encoding: '7bit',
+2025-02-27T18:06:17:   mimetype: 'image/jpeg'
+2025-02-27T18:06:17: }
+2025-02-27T18:07:13: Backend running at 8000
+2025-02-27T18:07:13: db connected
+2025-02-27T18:07:42: Backend running at 8000
+2025-02-27T18:07:42: db connected
+2025-02-27T18:07:43: {
+2025-02-27T18:07:43:   fieldname: 'logo',
+2025-02-27T18:07:43:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T18:07:43:   encoding: '7bit',
+2025-02-27T18:07:43:   mimetype: 'image/jpeg',
+2025-02-27T18:07:43:   destination: 'public/client/',
+2025-02-27T18:07:43:   filename: 'file_1740659862999.jpeg',
+2025-02-27T18:07:43:   path: 'public\\client\\file_1740659862999.jpeg',
+2025-02-27T18:07:43:   size: 16669
+2025-02-27T18:07:43: }
+2025-02-27T18:12:00: Backend running at 8000
+2025-02-27T18:12:00: db connected
+2025-02-27T18:12:18: Backend running at 8000
+2025-02-27T18:12:18: db connected
+2025-02-27T18:12:25: [Object: null prototype] {
+2025-02-27T18:12:25:   clientData: '{"clientName":"sky","clientUserName":"sky","password":"12345","clientEmail":"akashdandge100@gmail.com","dateOfJoining":"2025-02-25","logo":{"filename":"WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg"},"sendMail":"no"}'
+2025-02-27T18:12:25: }
+2025-02-27T18:13:10: Backend running at 8000
+2025-02-27T18:13:10: db connected
+2025-02-27T18:13:10: {
+2025-02-27T18:13:10:   fieldname: 'logo',
+2025-02-27T18:13:10:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T18:13:10:   encoding: '7bit',
+2025-02-27T18:13:10:   mimetype: 'image/jpeg',
+2025-02-27T18:13:10:   destination: 'public/client/',
+2025-02-27T18:13:10:   filename: 'file_1740660190545.jpeg',
+2025-02-27T18:13:10:   path: 'public\\client\\file_1740660190545.jpeg',
+2025-02-27T18:13:10:   size: 16669
+2025-02-27T18:13:10: }
+2025-02-27T18:15:51: Backend running at 8000
+2025-02-27T18:15:51: db connected
+2025-02-27T18:15:58: undefined
+2025-02-27T18:23:07: Backend running at 8000
+2025-02-27T18:23:07: db connected
+2025-02-27T18:25:14: Backend running at 8000
+2025-02-27T18:25:14: db connected
+2025-02-27T18:25:29: Backend running at 8000
+2025-02-27T18:25:29: db connected
+2025-02-27T18:25:39: {
+2025-02-27T18:25:39:   fieldname: 'logo',
+2025-02-27T18:25:39:   originalname: 'pixelcut-export__2_-removebg-preview.png',
+2025-02-27T18:25:39:   encoding: '7bit',
+2025-02-27T18:25:39:   mimetype: 'image/png',
+2025-02-27T18:25:39:   destination: 'public/client/',
+2025-02-27T18:25:39:   filename: 'file_1740660939608.png',
+2025-02-27T18:25:39:   path: 'public\\client\\file_1740660939608.png',
+2025-02-27T18:25:39:   size: 88902
+2025-02-27T18:25:39: }
+2025-02-27T18:25:39: \client\file_1740660939608.png
+2025-02-27T18:25:40: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2025-02-27T18:25:40:     at ServerResponse.setHeader (node:_http_outgoing:659:11)
+2025-02-27T18:25:40:     at ServerResponse.header (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\response.js:795:10)
+2025-02-27T18:25:40:     at ServerResponse.send (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\response.js:175:12)
+2025-02-27T18:25:40:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:75:36)
+2025-02-27T18:25:40:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-02-27T18:25:40:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+2025-02-27T18:25:40:   code: 'ERR_HTTP_HEADERS_SENT'
+2025-02-27T18:25:40: }
+2025-02-27T18:26:05: Backend running at 8000
+2025-02-27T18:26:05: db connected
+2025-02-27T18:31:44: Backend running at 8000
+2025-02-27T18:31:44: db connected
+2025-02-27T18:31:58: {
+2025-02-27T18:31:58:   fieldname: 'logo',
+2025-02-27T18:31:58:   originalname: 'pixelcut-export__2_-removebg-preview.png',
+2025-02-27T18:31:58:   encoding: '7bit',
+2025-02-27T18:31:58:   mimetype: 'image/png',
+2025-02-27T18:31:58:   destination: 'public/client/',
+2025-02-27T18:31:58:   filename: 'file_1740661318448.png',
+2025-02-27T18:31:58:   path: 'public\\client\\file_1740661318448.png',
+2025-02-27T18:31:58:   size: 88902
+2025-02-27T18:31:58: }
+2025-02-27T18:31:58: \client\file_1740661318448.png
+2025-02-27T18:32:24: Backend running at 8000
+2025-02-27T18:32:24: db connected
+2025-02-27T18:36:31: Backend running at 8000
+2025-02-27T18:36:31: db connected
+2025-02-27T18:36:36: undefined
+2025-02-27T18:37:02: Backend running at 8000
+2025-02-27T18:37:02: db connected
+2025-02-27T18:37:37: Backend running at 8000
+2025-02-27T18:37:37: db connected
+2025-02-27T18:37:45: Backend running at 8000
+2025-02-27T18:37:45: db connected
+2025-02-27T18:37:52: undefined
+2025-02-27T18:38:05: Backend running at 8000
+2025-02-27T18:38:05: db connected
+2025-02-27T19:22:22: Backend running at 8000
+2025-02-27T19:22:22: db connected
+2025-02-27T19:22:24: Backend running at 8000
+2025-02-27T19:22:24: db connected
+2025-02-27T19:25:03: Backend running at 8000
+2025-02-27T19:25:03: db connected
+2025-02-27T19:25:15: {
+2025-02-27T19:25:15:   fieldname: 'logo',
+2025-02-27T19:25:15:   originalname: 'demo.png',
+2025-02-27T19:25:15:   encoding: '7bit',
+2025-02-27T19:25:15:   mimetype: 'image/png',
+2025-02-27T19:25:15:   destination: 'public/client/',
+2025-02-27T19:25:15:   filename: 'file_1740664515300.png',
+2025-02-27T19:25:15:   path: 'public\\client\\file_1740664515300.png',
+2025-02-27T19:25:15:   size: 4397
+2025-02-27T19:25:15: } [Object: null prototype] {
+2025-02-27T19:25:15:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"demo.png"}}',
+2025-02-27T19:25:15:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"","url":""}}'
+2025-02-27T19:25:15: }
+2025-02-27T19:30:46: Backend running at 8000
+2025-02-27T19:30:46: db connected
+2025-02-27T19:33:03: {
+2025-02-27T19:33:03:   fieldname: 'logo',
+2025-02-27T19:33:03:   originalname: 'demo.png',
+2025-02-27T19:33:03:   encoding: '7bit',
+2025-02-27T19:33:03:   mimetype: 'image/png',
+2025-02-27T19:33:03:   destination: 'public/client/',
+2025-02-27T19:33:03:   filename: 'file_1740664983632.png',
+2025-02-27T19:33:03:   path: 'public\\client\\file_1740664983632.png',
+2025-02-27T19:33:03:   size: 4397
+2025-02-27T19:33:03: } [Object: null prototype] {
+2025-02-27T19:33:03:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"demo.png"}}',
+2025-02-27T19:33:03:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"/index.js"}}'
+2025-02-27T19:33:03: }
+2025-02-27T19:33:40: undefined [Object: null prototype] {
+2025-02-27T19:33:40:   logo: 'undefined',
+2025-02-27T19:33:40:   newData: '{"id":"268e9966-6c58-4536-b8e4-d45d3c213112","client_name":"sky","username":"sky","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740661318448.png","logo":{"filename":""}}',
+2025-02-27T19:33:40:   prevData: '{"id":"268e9966-6c58-4536-b8e4-d45d3c213112","client_name":"sky","username":"sky","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740661318448.png","logo":{"filename":"/index.js"}}'
+2025-02-27T19:33:40: }
+2025-02-27T19:36:01: Backend running at 8000
+2025-02-27T19:36:01: db connected
+2025-02-27T19:36:02: undefined [Object: null prototype] {
+2025-02-27T19:36:02:   logo: 'undefined',
+2025-02-27T19:36:02:   newData: '{"id":"268e9966-6c58-4536-b8e4-d45d3c213112","client_name":"sky","username":"sky","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740661318448.png","logo":{"filename":""}}',
+2025-02-27T19:36:02:   prevData: '{"id":"268e9966-6c58-4536-b8e4-d45d3c213112","client_name":"sky","username":"sky","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740661318448.png","logo":{"filename":"/index.js"}}'
+2025-02-27T19:36:02: }
+2025-02-27T19:36:49: Backend running at 8000
+2025-02-27T19:36:49: db connected
+2025-02-27T19:36:54: undefined [Object: null prototype] {
+2025-02-27T19:36:54:   logo: 'undefined',
+2025-02-27T19:36:54:   newData: '{"id":"268e9966-6c58-4536-b8e4-d45d3c213112","client_name":"sky","username":"sky","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740661318448.png","logo":{"filename":""}}',
+2025-02-27T19:36:54:   prevData: '{"id":"268e9966-6c58-4536-b8e4-d45d3c213112","client_name":"sky","username":"sky","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740661318448.png","logo":{"filename":"file_1740661318448.png"}}'
+2025-02-27T19:36:54: }
+2025-02-27T19:48:04: Backend running at 8000
+2025-02-27T19:48:05: db connected
+2025-02-27T19:48:40: {
+2025-02-27T19:48:40:   fieldname: 'logo',
+2025-02-27T19:48:40:   originalname: 'demo.png',
+2025-02-27T19:48:40:   encoding: '7bit',
+2025-02-27T19:48:40:   mimetype: 'image/png',
+2025-02-27T19:48:40:   destination: 'public/client/',
+2025-02-27T19:48:40:   filename: 'file_1740665920882.png',
+2025-02-27T19:48:40:   path: 'public\\client\\file_1740665920882.png',
+2025-02-27T19:48:40:   size: 4397
+2025-02-27T19:48:40: } [Object: null prototype] {
+2025-02-27T19:48:40:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"demo.png"}}',
+2025-02-27T19:48:40:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":""}}'
+2025-02-27T19:48:40: }
+2025-02-27T19:50:55: {
+2025-02-27T19:50:55:   fieldname: 'logo',
+2025-02-27T19:50:55:   originalname: 'demo.png',
+2025-02-27T19:50:55:   encoding: '7bit',
+2025-02-27T19:50:55:   mimetype: 'image/png',
+2025-02-27T19:50:55:   destination: 'public/client/',
+2025-02-27T19:50:55:   filename: 'file_1740666055618.png',
+2025-02-27T19:50:55:   path: 'public\\client\\file_1740666055618.png',
+2025-02-27T19:50:55:   size: 4397
+2025-02-27T19:50:55: } [Object: null prototype] {
+2025-02-27T19:50:55:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"demo.png"}}',
+2025-02-27T19:50:55:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":""}}'
+2025-02-27T19:50:55: }
+2025-02-27T19:51:30: Backend running at 8000
+2025-02-27T19:51:30: db connected
+2025-02-27T19:51:39: {
+2025-02-27T19:51:39:   fieldname: 'logo',
+2025-02-27T19:51:39:   originalname: 'demo.png',
+2025-02-27T19:51:39:   encoding: '7bit',
+2025-02-27T19:51:39:   mimetype: 'image/png',
+2025-02-27T19:51:39:   destination: 'public/client/',
+2025-02-27T19:51:39:   filename: 'file_1740666099978.png',
+2025-02-27T19:51:39:   path: 'public\\client\\file_1740666099978.png',
+2025-02-27T19:51:39:   size: 4397
+2025-02-27T19:51:39: } [Object: null prototype] {
+2025-02-27T19:51:39:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"demo.png"}}',
+2025-02-27T19:51:39:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":""}}'
+2025-02-27T19:51:39: }
+2025-02-27T19:51:58: undefined [Object: null prototype] {
+2025-02-27T19:51:58:   logo: 'undefined',
+2025-02-27T19:51:58:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666099978.png","logo":{"filename":""}}',
+2025-02-27T19:51:58:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666099978.png","logo":{"filename":"file_1740666099978.png"}}'
+2025-02-27T19:51:58: }
+2025-02-27T19:51:58: ReferenceError: fs is not defined
+2025-02-27T19:51:58:     at editclient (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:186:21)
+2025-02-27T19:51:58:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-27T19:51:58:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-02-27T19:51:58:     at done (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:45:7)
+2025-02-27T19:51:58:     at indicateDone (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:49:68)
+2025-02-27T19:51:58:     at Multipart.<anonymous> (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:166:7)
+2025-02-27T19:51:58:     at Multipart.emit (node:events:519:28)
+2025-02-27T19:51:58:     at emitCloseNT (node:internal/streams/destroy:147:10)
+2025-02-27T19:51:58:     at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+2025-02-27T19:51:58: Error: Column 'company_logo' cannot be null
+2025-02-27T19:51:58:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-02-27T19:51:58:     at editclient (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:214:32)
+2025-02-27T19:51:58:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-27T19:51:58:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-02-27T19:51:58:     at done (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:45:7)
+2025-02-27T19:51:58:     at indicateDone (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:49:68)
+2025-02-27T19:51:58:     at Multipart.<anonymous> (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:166:7)
+2025-02-27T19:51:58:     at Multipart.emit (node:events:519:28)
+2025-02-27T19:51:58:     at emitCloseNT (node:internal/streams/destroy:147:10)
+2025-02-27T19:51:58:     at process.processTicksAndRejections (node:internal/process/task_queues:81:21) {
+2025-02-27T19:51:58:   code: 'ER_BAD_NULL_ERROR',
+2025-02-27T19:51:58:   errno: 1048,
+2025-02-27T19:51:58:   sql: "update logindetails set email='akashdandge100@gmail.com', date_of_joining='2025-02-25', company_logo=NULL where id='17740c9b-9a17-458a-a263-5c7d29d8f73b'",
+2025-02-27T19:51:58:   sqlState: '23000',
+2025-02-27T19:51:58:   sqlMessage: "Column 'company_logo' cannot be null"
+2025-02-27T19:51:58: }
+2025-02-27T19:52:39: Backend running at 8000
+2025-02-27T19:52:39: db connected
+2025-02-27T19:52:44: undefined [Object: null prototype] {
+2025-02-27T19:52:44:   logo: 'undefined',
+2025-02-27T19:52:44:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666099978.png","logo":{"filename":""}}',
+2025-02-27T19:52:44:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666099978.png","logo":{"filename":"file_1740666099978.png"}}'
+2025-02-27T19:52:44: }
+2025-02-27T19:52:44: SystemError [ERR_FS_EISDIR]: Path is a directory: rm returned EISDIR (is a directory) public/client/
+2025-02-27T19:52:44:     at Object.rmSync (node:fs:1261:13)
+2025-02-27T19:52:44:     at editclient (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:187:24)
+2025-02-27T19:52:44:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-27T19:52:44:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-02-27T19:52:44:     at done (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:45:7)
+2025-02-27T19:52:44:     at indicateDone (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:49:68)
+2025-02-27T19:52:44:     at Multipart.<anonymous> (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:166:7)
+2025-02-27T19:52:44:     at Multipart.emit (node:events:519:28)
+2025-02-27T19:52:44:     at emitCloseNT (node:internal/streams/destroy:147:10)
+2025-02-27T19:52:44:     at process.processTicksAndRejections (node:internal/process/task_queues:81:21) {
+2025-02-27T19:52:44:   code: 'ERR_FS_EISDIR',
+2025-02-27T19:52:44:   info: {
+2025-02-27T19:52:44:     code: 'EISDIR',
+2025-02-27T19:52:44:     message: 'is a directory',
+2025-02-27T19:52:44:     path: 'public/client/',
+2025-02-27T19:52:44:     syscall: 'rm',
+2025-02-27T19:52:44:     errno: 21
+2025-02-27T19:52:44:   },
+2025-02-27T19:52:44:   errno: [Getter/Setter: 21],
+2025-02-27T19:52:44:   syscall: [Getter/Setter: 'rm'],
+2025-02-27T19:52:44:   path: [Getter/Setter: 'public/client/']
+2025-02-27T19:52:44: }
+2025-02-27T19:52:45: Error: Column 'company_logo' cannot be null
+2025-02-27T19:52:45:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-02-27T19:52:45:     at editclient (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:215:32)
+2025-02-27T19:52:45:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-27T19:52:45:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-02-27T19:52:45:     at done (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:45:7)
+2025-02-27T19:52:45:     at indicateDone (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:49:68)
+2025-02-27T19:52:45:     at Multipart.<anonymous> (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:166:7)
+2025-02-27T19:52:45:     at Multipart.emit (node:events:519:28)
+2025-02-27T19:52:45:     at emitCloseNT (node:internal/streams/destroy:147:10)
+2025-02-27T19:52:45:     at process.processTicksAndRejections (node:internal/process/task_queues:81:21) {
+2025-02-27T19:52:45:   code: 'ER_BAD_NULL_ERROR',
+2025-02-27T19:52:45:   errno: 1048,
+2025-02-27T19:52:45:   sql: "update logindetails set email='akashdandge100@gmail.com', date_of_joining='2025-02-25', company_logo=NULL where id='17740c9b-9a17-458a-a263-5c7d29d8f73b'",
+2025-02-27T19:52:45:   sqlState: '23000',
+2025-02-27T19:52:45:   sqlMessage: "Column 'company_logo' cannot be null"
+2025-02-27T19:52:45: }
+2025-02-27T19:54:33: Backend running at 8000
+2025-02-27T19:54:33: db connected
+2025-02-27T19:54:40: undefined [Object: null prototype] {
+2025-02-27T19:54:40:   logo: 'undefined',
+2025-02-27T19:54:40:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666099978.png","logo":{"filename":""}}',
+2025-02-27T19:54:40:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666099978.png","logo":{"filename":"file_1740666099978.png"}}'
+2025-02-27T19:54:40: }
+2025-02-27T19:55:08: {
+2025-02-27T19:55:08:   fieldname: 'logo',
+2025-02-27T19:55:08:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T19:55:08:   encoding: '7bit',
+2025-02-27T19:55:08:   mimetype: 'image/png',
+2025-02-27T19:55:08:   destination: 'public/client/',
+2025-02-27T19:55:08:   filename: 'file_1740666308191.png',
+2025-02-27T19:55:08:   path: 'public\\client\\file_1740666308191.png',
+2025-02-27T19:55:08:   size: 6061
+2025-02-27T19:55:08: } [Object: null prototype] {
+2025-02-27T19:55:08:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"acko-logo-02A192D44B-seeklogo.com.png"}}',
+2025-02-27T19:55:08:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":""}}'
+2025-02-27T19:55:08: }
+2025-02-27T19:55:27: Backend running at 8000
+2025-02-27T19:55:28: db connected
+2025-02-27T19:55:49: Backend running at 8000
+2025-02-27T19:55:49: db connected
+2025-02-27T19:55:55: undefined [Object: null prototype] {
+2025-02-27T19:55:55:   logo: 'undefined',
+2025-02-27T19:55:55:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666308191.png","logo":{"filename":""}}',
+2025-02-27T19:55:55:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666308191.png","logo":{"filename":"file_1740666308191.png"}}'
+2025-02-27T19:55:55: }
+2025-02-27T19:55:55: logo 
+2025-02-27T19:57:13: Backend running at 8000
+2025-02-27T19:57:14: db connected
+2025-02-27T19:58:59: logo \client\file_1740666539131.png
+2025-02-27T20:01:14: Backend running at 8000
+2025-02-27T20:01:14: db connected
+2025-02-27T20:01:24:  file_1740666539131.png
+2025-02-27T20:01:24: file_1740666539131.png
+2025-02-27T20:01:24: logo 
+2025-02-27T20:03:09: Backend running at 8000
+2025-02-27T20:03:09: db connected
+2025-02-27T20:03:29: Backend running at 8000
+2025-02-27T20:03:29: db connected
+2025-02-27T20:03:41: Body [Object: null prototype] {
+2025-02-27T20:03:41:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"LMS Logo (1).png"}}',
+2025-02-27T20:03:41:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":""}}'
+2025-02-27T20:03:41: }
+2025-02-27T20:03:41: LMS Logo (1).png 
+2025-02-27T20:03:41: logo \client\file_1740666821433.png
+2025-02-27T20:05:31: Backend running at 8000
+2025-02-27T20:05:31: db connected
+2025-02-27T20:05:37: Body [Object: null prototype] {
+2025-02-27T20:05:37:   logo: 'undefined',
+2025-02-27T20:05:37:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666821433.png","logo":{"filename":""}}',
+2025-02-27T20:05:37:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740666821433.png","logo":{"filename":"file_1740666821433.png"}}'
+2025-02-27T20:05:37: }
+2025-02-27T20:05:37:  file_1740666821433.png
+2025-02-27T20:05:37: file_1740666821433.png
+2025-02-27T20:05:37: logo 
+2025-02-27T20:07:23: Body [Object: null prototype] {
+2025-02-27T20:07:23:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":"Cadbury-Dairy-Milk-Logo-2010.png"}}',
+2025-02-27T20:07:23:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"","logo":{"filename":""}}'
+2025-02-27T20:07:23: }
+2025-02-27T20:07:23: Cadbury-Dairy-Milk-Logo-2010.png 
+2025-02-27T20:07:23: logo \client\file_1740667043943.png
+2025-02-27T20:08:03: Body [Object: null prototype] {
+2025-02-27T20:08:03:   logo: 'undefined',
+2025-02-27T20:08:03:   newData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740667043943.png","logo":{"filename":""}}',
+2025-02-27T20:08:03:   prevData: '{"id":"17740c9b-9a17-458a-a263-5c7d29d8f73b","client_name":"sky1","username":"sky1","email":"akashdandge100@gmail.com","date_of_joining":"2025-02-25","company_logo":"\\\\client\\\\file_1740667043943.png","logo":{"filename":"file_1740667043943.png"}}'
+2025-02-27T20:08:03: }
+2025-02-27T20:08:03:  file_1740667043943.png
+2025-02-27T20:08:03: file_1740667043943.png
+2025-02-27T20:08:03: logo 
+2025-02-27T20:08:31: Backend running at 8000
+2025-02-27T20:08:31: db connected
+2025-02-27T20:08:42: Backend running at 8000
+2025-02-27T20:08:42: db connected
+2025-02-27T20:09:09: WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg 
+2025-02-27T20:10:04: Backend running at 8000
+2025-02-27T20:10:04: db connected
+2025-02-27T20:14:11: Backend running at 8000
+2025-02-27T20:14:11: db connected
+2025-02-27T20:16:31: Backend running at 8000
+2025-02-27T20:16:31: db connected
+2025-02-27T20:18:21: Backend running at 8000
+2025-02-27T20:18:21: db connected
+2025-02-27T20:18:31: {
+2025-02-27T20:18:31:   fieldname: 'logo',
+2025-02-27T20:18:31:   originalname: 'demo.png',
+2025-02-27T20:18:31:   encoding: '7bit',
+2025-02-27T20:18:31:   mimetype: 'image/png'
+2025-02-27T20:18:31: }
+2025-02-27T20:18:31: {
+2025-02-27T20:18:31:   fieldname: 'logo',
+2025-02-27T20:18:31:   originalname: 'demo.png',
+2025-02-27T20:18:31:   encoding: '7bit',
+2025-02-27T20:18:31:   mimetype: 'image/png'
+2025-02-27T20:18:31: }
+2025-02-27T20:19:13: {
+2025-02-27T20:19:13:   fieldname: 'logo',
+2025-02-27T20:19:13:   originalname: 'Zuno-General-Insurance.png',
+2025-02-27T20:19:13:   encoding: '7bit',
+2025-02-27T20:19:13:   mimetype: 'image/png'
+2025-02-27T20:19:13: }
+2025-02-27T20:19:13: {
+2025-02-27T20:19:13:   fieldname: 'logo',
+2025-02-27T20:19:13:   originalname: 'Zuno-General-Insurance.png',
+2025-02-27T20:19:13:   encoding: '7bit',
+2025-02-27T20:19:13:   mimetype: 'image/png'
+2025-02-27T20:19:13: }
+2025-02-27T20:22:05: {
+2025-02-27T20:22:05:   fieldname: 'logo',
+2025-02-27T20:22:05:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:22:05:   encoding: '7bit',
+2025-02-27T20:22:05:   mimetype: 'image/png'
+2025-02-27T20:22:05: }
+2025-02-27T20:22:05: {
+2025-02-27T20:22:05:   fieldname: 'logo',
+2025-02-27T20:22:05:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:22:05:   encoding: '7bit',
+2025-02-27T20:22:05:   mimetype: 'image/png'
+2025-02-27T20:22:05: }
+2025-02-27T20:22:25: {
+2025-02-27T20:22:25:   fieldname: 'logo',
+2025-02-27T20:22:25:   originalname: 'fortune-logo-removebg-preview.png',
+2025-02-27T20:22:25:   encoding: '7bit',
+2025-02-27T20:22:25:   mimetype: 'image/png'
+2025-02-27T20:22:25: }
+2025-02-27T20:22:25: {
+2025-02-27T20:22:25:   fieldname: 'logo',
+2025-02-27T20:22:25:   originalname: 'fortune-logo-removebg-preview.png',
+2025-02-27T20:22:25:   encoding: '7bit',
+2025-02-27T20:22:25:   mimetype: 'image/png'
+2025-02-27T20:22:25: }
+2025-02-27T20:24:14: Backend running at 8000
+2025-02-27T20:24:14: db connected
+2025-02-27T20:24:16: Backend running at 8000
+2025-02-27T20:24:16: {
+2025-02-27T20:24:16:   fieldname: 'logo',
+2025-02-27T20:24:16:   originalname: 'fortune-logo-removebg-preview.png',
+2025-02-27T20:24:16:   encoding: '7bit',
+2025-02-27T20:24:16:   mimetype: 'image/png'
+2025-02-27T20:24:16: }
+2025-02-27T20:24:16: {
+2025-02-27T20:24:16:   fieldname: 'logo',
+2025-02-27T20:24:16:   originalname: 'fortune-logo-removebg-preview.png',
+2025-02-27T20:24:16:   encoding: '7bit',
+2025-02-27T20:24:16:   mimetype: 'image/png'
+2025-02-27T20:24:16: }
+2025-02-27T20:24:16: db connected
+2025-02-27T20:24:16: logo \client\file_1740668056835.png
+2025-02-27T20:24:41: {
+2025-02-27T20:24:41:   fieldname: 'logo',
+2025-02-27T20:24:41:   originalname: 'demo.png',
+2025-02-27T20:24:41:   encoding: '7bit',
+2025-02-27T20:24:41:   mimetype: 'image/png'
+2025-02-27T20:24:41: }
+2025-02-27T20:24:41: {
+2025-02-27T20:24:41:   fieldname: 'logo',
+2025-02-27T20:24:41:   originalname: 'demo.png',
+2025-02-27T20:24:41:   encoding: '7bit',
+2025-02-27T20:24:41:   mimetype: 'image/png'
+2025-02-27T20:24:41: }
+2025-02-27T20:24:41: logo \client\file_1740668081941.png
+2025-02-27T20:26:30: {
+2025-02-27T20:26:30:   fieldname: 'logo',
+2025-02-27T20:26:30:   originalname: '12-removebg-preview.png',
+2025-02-27T20:26:30:   encoding: '7bit',
+2025-02-27T20:26:30:   mimetype: 'image/png'
+2025-02-27T20:26:30: }
+2025-02-27T20:26:30: {
+2025-02-27T20:26:30:   fieldname: 'logo',
+2025-02-27T20:26:30:   originalname: '12-removebg-preview.png',
+2025-02-27T20:26:30:   encoding: '7bit',
+2025-02-27T20:26:30:   mimetype: 'image/png'
+2025-02-27T20:26:30: }
+2025-02-27T20:28:33: Backend running at 8000
+2025-02-27T20:28:33: db connected
+2025-02-27T20:28:48: {
+2025-02-27T20:28:48:   fieldname: 'clientLogo',
+2025-02-27T20:28:48:   originalname: 'BPmjJvoMF57nvmLZt7pEPydkVqJ1685394913799_200x200.png',
+2025-02-27T20:28:48:   encoding: '7bit',
+2025-02-27T20:28:48:   mimetype: 'image/png'
+2025-02-27T20:28:48: }
+2025-02-27T20:28:48: {
+2025-02-27T20:28:48:   fieldname: 'clientLogo',
+2025-02-27T20:28:48:   originalname: 'BPmjJvoMF57nvmLZt7pEPydkVqJ1685394913799_200x200.png',
+2025-02-27T20:28:48:   encoding: '7bit',
+2025-02-27T20:28:48:   mimetype: 'image/png'
+2025-02-27T20:28:48: }
+2025-02-27T20:28:48: logo \client\file_1740668328582.png
+2025-02-27T20:32:06: Backend running at 8000
+2025-02-27T20:32:06: db connected
+2025-02-27T20:33:19: {
+2025-02-27T20:33:19:   fieldname: 'clientLogo',
+2025-02-27T20:33:19:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:33:19:   encoding: '7bit',
+2025-02-27T20:33:19:   mimetype: 'image/jpeg'
+2025-02-27T20:33:19: }
+2025-02-27T20:33:19: {
+2025-02-27T20:33:19:   fieldname: 'clientLogo',
+2025-02-27T20:33:19:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:33:19:   encoding: '7bit',
+2025-02-27T20:33:19:   mimetype: 'image/jpeg'
+2025-02-27T20:33:19: }
+2025-02-27T20:33:19: logo \client\file_1740668599569.jpeg
+2025-02-27T20:33:47: Backend running at 8000
+2025-02-27T20:33:48: db connected
+2025-02-27T20:34:18: {
+2025-02-27T20:34:18:   fieldname: 'clientLogo',
+2025-02-27T20:34:18:   originalname: 'demo.png',
+2025-02-27T20:34:18:   encoding: '7bit',
+2025-02-27T20:34:18:   mimetype: 'image/png'
+2025-02-27T20:34:18: }
+2025-02-27T20:34:18: {
+2025-02-27T20:34:18:   fieldname: 'clientLogo',
+2025-02-27T20:34:18:   originalname: 'demo.png',
+2025-02-27T20:34:18:   encoding: '7bit',
+2025-02-27T20:34:18:   mimetype: 'image/png'
+2025-02-27T20:34:18: }
+2025-02-27T20:34:18: logo \client\file_1740668658895.png
+2025-02-27T20:34:33: Backend running at 8000
+2025-02-27T20:34:34: db connected
+2025-02-27T20:35:00: Backend running at 8000
+2025-02-27T20:35:00: db connected
+2025-02-27T20:35:26: {
+2025-02-27T20:35:26:   fieldname: 'clientLogo',
+2025-02-27T20:35:26:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:35:26:   encoding: '7bit',
+2025-02-27T20:35:26:   mimetype: 'image/png'
+2025-02-27T20:35:26: }
+2025-02-27T20:35:47: Backend running at 8000
+2025-02-27T20:35:48: db connected
+2025-02-27T20:35:51: {
+2025-02-27T20:35:51:   fieldname: 'clientLogo',
+2025-02-27T20:35:51:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:35:51:   encoding: '7bit',
+2025-02-27T20:35:51:   mimetype: 'image/png'
+2025-02-27T20:35:51: }
+2025-02-27T20:35:51: {
+2025-02-27T20:35:51:   fieldname: 'clientLogo',
+2025-02-27T20:35:51:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:35:51:   encoding: '7bit',
+2025-02-27T20:35:51:   mimetype: 'image/png'
+2025-02-27T20:35:51: }
+2025-02-27T20:36:09: logo 
+2025-02-27T20:36:19: {
+2025-02-27T20:36:19:   fieldname: 'clientLogo',
+2025-02-27T20:36:19:   originalname: 'bhima-jewellers-logo-A4F72538AF-seeklogo.com.png',
+2025-02-27T20:36:19:   encoding: '7bit',
+2025-02-27T20:36:19:   mimetype: 'image/png'
+2025-02-27T20:36:19: }
+2025-02-27T20:36:19: {
+2025-02-27T20:36:19:   fieldname: 'clientLogo',
+2025-02-27T20:36:19:   originalname: 'bhima-jewellers-logo-A4F72538AF-seeklogo.com.png',
+2025-02-27T20:36:19:   encoding: '7bit',
+2025-02-27T20:36:19:   mimetype: 'image/png'
+2025-02-27T20:36:19: }
+2025-02-27T20:36:19: logo \client\file_1740668779190.png
+2025-02-27T20:37:41: {
+2025-02-27T20:37:41:   fieldname: 'clientLogo',
+2025-02-27T20:37:41:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T20:37:41:   encoding: '7bit',
+2025-02-27T20:37:41:   mimetype: 'image/png'
+2025-02-27T20:37:41: }
+2025-02-27T20:37:41: {
+2025-02-27T20:37:41:   fieldname: 'clientLogo',
+2025-02-27T20:37:41:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T20:37:41:   encoding: '7bit',
+2025-02-27T20:37:41:   mimetype: 'image/png'
+2025-02-27T20:37:41: }
+2025-02-27T20:37:41: logo \client\file_1740668861918.png
+2025-02-27T20:37:51: {
+2025-02-27T20:37:51:   fieldname: 'clientLogo',
+2025-02-27T20:37:51:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T20:37:51:   encoding: '7bit',
+2025-02-27T20:37:51:   mimetype: 'image/png'
+2025-02-27T20:37:51: }
+2025-02-27T20:37:51: {
+2025-02-27T20:37:51:   fieldname: 'clientLogo',
+2025-02-27T20:37:51:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T20:37:51:   encoding: '7bit',
+2025-02-27T20:37:51:   mimetype: 'image/png'
+2025-02-27T20:37:51: }
+2025-02-27T20:37:51: logo 
+2025-02-27T20:38:06: {
+2025-02-27T20:38:06:   fieldname: 'clientLogo',
+2025-02-27T20:38:06:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T20:38:06:   encoding: '7bit',
+2025-02-27T20:38:06:   mimetype: 'image/png'
+2025-02-27T20:38:06: }
+2025-02-27T20:38:06: {
+2025-02-27T20:38:06:   fieldname: 'clientLogo',
+2025-02-27T20:38:06:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T20:38:06:   encoding: '7bit',
+2025-02-27T20:38:06:   mimetype: 'image/png'
+2025-02-27T20:38:06: }
+2025-02-27T20:38:06: logo 
+2025-02-27T20:38:26: {
+2025-02-27T20:38:26:   fieldname: 'clientLogo',
+2025-02-27T20:38:26:   originalname: 'demo.png',
+2025-02-27T20:38:26:   encoding: '7bit',
+2025-02-27T20:38:26:   mimetype: 'image/png'
+2025-02-27T20:38:26: }
+2025-02-27T20:38:26: {
+2025-02-27T20:38:26:   fieldname: 'clientLogo',
+2025-02-27T20:38:26:   originalname: 'demo.png',
+2025-02-27T20:38:26:   encoding: '7bit',
+2025-02-27T20:38:26:   mimetype: 'image/png'
+2025-02-27T20:38:26: }
+2025-02-27T20:38:26: logo \client\file_1740668906850.png
+2025-02-27T20:38:39: {
+2025-02-27T20:38:39:   fieldname: 'clientLogo',
+2025-02-27T20:38:39:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:38:39:   encoding: '7bit',
+2025-02-27T20:38:39:   mimetype: 'image/jpeg'
+2025-02-27T20:38:39: }
+2025-02-27T20:38:39: {
+2025-02-27T20:38:39:   fieldname: 'clientLogo',
+2025-02-27T20:38:39:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:38:39:   encoding: '7bit',
+2025-02-27T20:38:39:   mimetype: 'image/jpeg'
+2025-02-27T20:38:39: }
+2025-02-27T20:38:39: logo \client\file_1740668919751.jpeg
+2025-02-27T20:38:48: {
+2025-02-27T20:38:48:   fieldname: 'clientLogo',
+2025-02-27T20:38:48:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:38:48:   encoding: '7bit',
+2025-02-27T20:38:48:   mimetype: 'image/jpeg'
+2025-02-27T20:38:48: }
+2025-02-27T20:38:48: {
+2025-02-27T20:38:48:   fieldname: 'clientLogo',
+2025-02-27T20:38:48:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:38:48:   encoding: '7bit',
+2025-02-27T20:38:48:   mimetype: 'image/jpeg'
+2025-02-27T20:38:48: }
+2025-02-27T20:38:48: logo 
+2025-02-27T20:39:58: logo 
+2025-02-27T20:40:17: {
+2025-02-27T20:40:17:   fieldname: 'clientLogo',
+2025-02-27T20:40:17:   originalname: 'demo.png',
+2025-02-27T20:40:17:   encoding: '7bit',
+2025-02-27T20:40:17:   mimetype: 'image/png'
+2025-02-27T20:40:17: }
+2025-02-27T20:40:17: {
+2025-02-27T20:40:17:   fieldname: 'clientLogo',
+2025-02-27T20:40:17:   originalname: 'demo.png',
+2025-02-27T20:40:17:   encoding: '7bit',
+2025-02-27T20:40:17:   mimetype: 'image/png'
+2025-02-27T20:40:17: }
+2025-02-27T20:40:17: logo \client\file_1740669017054.png
+2025-02-27T20:41:16: {
+2025-02-27T20:41:16:   fieldname: 'clientLogo',
+2025-02-27T20:41:16:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:41:16:   encoding: '7bit',
+2025-02-27T20:41:16:   mimetype: 'image/jpeg'
+2025-02-27T20:41:16: }
+2025-02-27T20:41:16: {
+2025-02-27T20:41:16:   fieldname: 'clientLogo',
+2025-02-27T20:41:16:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:41:16:   encoding: '7bit',
+2025-02-27T20:41:16:   mimetype: 'image/jpeg'
+2025-02-27T20:41:16: }
+2025-02-27T20:41:16: logo \client\file_1740669076142.jpeg
+2025-02-27T20:41:43: logo 
+2025-02-27T20:41:53: logo 
+2025-02-27T20:43:04: {
+2025-02-27T20:43:04:   fieldname: 'clientLogo',
+2025-02-27T20:43:04:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:43:04:   encoding: '7bit',
+2025-02-27T20:43:04:   mimetype: 'image/jpeg'
+2025-02-27T20:43:04: }
+2025-02-27T20:43:04: {
+2025-02-27T20:43:04:   fieldname: 'clientLogo',
+2025-02-27T20:43:04:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:43:04:   encoding: '7bit',
+2025-02-27T20:43:04:   mimetype: 'image/jpeg'
+2025-02-27T20:43:04: }
+2025-02-27T20:43:04: logo \client\file_1740669184930.jpeg
+2025-02-27T20:43:18: {
+2025-02-27T20:43:18:   fieldname: 'clientLogo',
+2025-02-27T20:43:18:   originalname: 'demo.png',
+2025-02-27T20:43:18:   encoding: '7bit',
+2025-02-27T20:43:18:   mimetype: 'image/png'
+2025-02-27T20:43:18: }
+2025-02-27T20:43:18: {
+2025-02-27T20:43:18:   fieldname: 'clientLogo',
+2025-02-27T20:43:18:   originalname: 'demo.png',
+2025-02-27T20:43:18:   encoding: '7bit',
+2025-02-27T20:43:18:   mimetype: 'image/png'
+2025-02-27T20:43:18: }
+2025-02-27T20:43:18: logo \client\file_1740669198274.png
+2025-02-27T20:43:34: logo 
+2025-02-27T20:43:54: {
+2025-02-27T20:43:54:   fieldname: 'clientLogo',
+2025-02-27T20:43:54:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:43:54:   encoding: '7bit',
+2025-02-27T20:43:54:   mimetype: 'image/png'
+2025-02-27T20:43:54: }
+2025-02-27T20:43:54: {
+2025-02-27T20:43:54:   fieldname: 'clientLogo',
+2025-02-27T20:43:54:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:43:54:   encoding: '7bit',
+2025-02-27T20:43:54:   mimetype: 'image/png'
+2025-02-27T20:43:54: }
+2025-02-27T20:44:43: Backend running at 8000
+2025-02-27T20:44:43: db connected
+2025-02-27T20:45:13: {
+2025-02-27T20:45:13:   fieldname: 'clientLogo',
+2025-02-27T20:45:13:   originalname: 'unnamed.png',
+2025-02-27T20:45:13:   encoding: '7bit',
+2025-02-27T20:45:13:   mimetype: 'image/png'
+2025-02-27T20:45:13: }
+2025-02-27T20:45:13: {
+2025-02-27T20:45:13:   fieldname: 'clientLogo',
+2025-02-27T20:45:13:   originalname: 'unnamed.png',
+2025-02-27T20:45:13:   encoding: '7bit',
+2025-02-27T20:45:13:   mimetype: 'image/png'
+2025-02-27T20:45:13: }
+2025-02-27T20:45:13: logo \client\file_1740669313854.png
+2025-02-27T20:45:34: {
+2025-02-27T20:45:34:   fieldname: 'clientLogo',
+2025-02-27T20:45:34:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:45:34:   encoding: '7bit',
+2025-02-27T20:45:34:   mimetype: 'image/jpeg'
+2025-02-27T20:45:34: }
+2025-02-27T20:45:34: {
+2025-02-27T20:45:34:   fieldname: 'clientLogo',
+2025-02-27T20:45:34:   originalname: 'WhatsApp Image 2025-02-27 at 4.00.24 PM.jpeg',
+2025-02-27T20:45:34:   encoding: '7bit',
+2025-02-27T20:45:34:   mimetype: 'image/jpeg'
+2025-02-27T20:45:34: }
+2025-02-27T20:45:34: logo \client\file_1740669334907.jpeg
+2025-02-27T20:45:54: {
+2025-02-27T20:45:54:   fieldname: 'clientLogo',
+2025-02-27T20:45:54:   originalname: 'Adzeus Media, LLC (1).png',
+2025-02-27T20:45:54:   encoding: '7bit',
+2025-02-27T20:45:54:   mimetype: 'image/png'
+2025-02-27T20:45:54: }
+2025-02-27T20:45:54: {
+2025-02-27T20:45:54:   fieldname: 'clientLogo',
+2025-02-27T20:45:54:   originalname: 'Adzeus Media, LLC (1).png',
+2025-02-27T20:45:54:   encoding: '7bit',
+2025-02-27T20:45:54:   mimetype: 'image/png'
+2025-02-27T20:45:54: }
+2025-02-27T20:47:08: logo 
+2025-02-27T20:47:20: logo 
+2025-02-27T20:47:28: logo 
+2025-02-27T20:47:47: logo 
+2025-02-27T20:48:08: {
+2025-02-27T20:48:08:   fieldname: 'clientLogo',
+2025-02-27T20:48:08:   originalname: 'Zuno-General-Insurance.png',
+2025-02-27T20:48:08:   encoding: '7bit',
+2025-02-27T20:48:08:   mimetype: 'image/png'
+2025-02-27T20:48:08: }
+2025-02-27T20:48:08: {
+2025-02-27T20:48:08:   fieldname: 'clientLogo',
+2025-02-27T20:48:08:   originalname: 'Zuno-General-Insurance.png',
+2025-02-27T20:48:08:   encoding: '7bit',
+2025-02-27T20:48:08:   mimetype: 'image/png'
+2025-02-27T20:48:08: }
+2025-02-27T20:48:08: logo \client\file_1740669488042.png
+2025-02-27T20:48:53: logo 
+2025-02-27T20:49:11: {
+2025-02-27T20:49:11:   fieldname: 'clientLogo',
+2025-02-27T20:49:11:   originalname: 'demo.png',
+2025-02-27T20:49:11:   encoding: '7bit',
+2025-02-27T20:49:11:   mimetype: 'image/png'
+2025-02-27T20:49:11: }
+2025-02-27T20:49:11: {
+2025-02-27T20:49:11:   fieldname: 'clientLogo',
+2025-02-27T20:49:11:   originalname: 'demo.png',
+2025-02-27T20:49:11:   encoding: '7bit',
+2025-02-27T20:49:11:   mimetype: 'image/png'
+2025-02-27T20:49:11: }
+2025-02-27T20:49:11: logo \client\file_1740669551764.png
+2025-02-27T20:50:31: Backend running at 8000
+2025-02-27T20:50:31: db connected
+2025-02-27T20:51:26: Backend running at 8000
+2025-02-27T20:51:27: db connected
+2025-02-27T20:51:40: undefined {
+2025-02-27T20:51:40:   fieldname: 'clientLogo',
+2025-02-27T20:51:40:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T20:51:40:   encoding: '7bit',
+2025-02-27T20:51:40:   mimetype: 'image/png'
+2025-02-27T20:51:40: }
+2025-02-27T20:51:40: undefined {
+2025-02-27T20:51:40:   fieldname: 'clientLogo',
+2025-02-27T20:51:40:   originalname: 'acko-logo-02A192D44B-seeklogo.com.png',
+2025-02-27T20:51:40:   encoding: '7bit',
+2025-02-27T20:51:40:   mimetype: 'image/png'
+2025-02-27T20:51:40: }
+2025-02-27T20:52:30: Backend running at 8000
+2025-02-27T20:52:30: db connected
+2025-02-27T20:52:43: Backend running at 8000
+2025-02-27T20:52:43: db connected
+2025-02-27T20:52:55: file {
+2025-02-27T20:52:55:   fieldname: 'clientLogo',
+2025-02-27T20:52:55:   originalname: 'LMS Logo (1).png',
+2025-02-27T20:52:55:   encoding: '7bit',
+2025-02-27T20:52:55:   mimetype: 'image/png'
+2025-02-27T20:52:55: }
+2025-02-27T20:52:55: file {
+2025-02-27T20:52:55:   fieldname: 'clientLogo',
+2025-02-27T20:52:55:   originalname: 'LMS Logo (1).png',
+2025-02-27T20:52:55:   encoding: '7bit',
+2025-02-27T20:52:55:   mimetype: 'image/png'
+2025-02-27T20:52:55: }
+2025-02-27T20:55:20: Backend running at 8000
+2025-02-27T20:55:20: db connected
+2025-02-27T20:55:39: file {
+2025-02-27T20:55:39:   fieldname: 'clientLogo',
+2025-02-27T20:55:39:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:55:39:   encoding: '7bit',
+2025-02-27T20:55:39:   mimetype: 'image/png'
+2025-02-27T20:55:39: }
+2025-02-27T20:55:39: file {
+2025-02-27T20:55:39:   fieldname: 'clientLogo',
+2025-02-27T20:55:39:   originalname: '27-272849_pogo-logo.png',
+2025-02-27T20:55:39:   encoding: '7bit',
+2025-02-27T20:55:39:   mimetype: 'image/png'
+2025-02-27T20:55:39: }
+2025-02-27T20:57:37: Backend running at 8000
+2025-02-27T20:57:37: db connected
+2025-02-27T20:57:55: file {
+2025-02-27T20:57:55:   fieldname: 'clientLogo',
+2025-02-27T20:57:55:   originalname: 'idbi-federal-life-insurance-logo-freelogovectors.net_.png',
+2025-02-27T20:57:55:   encoding: '7bit',
+2025-02-27T20:57:55:   mimetype: 'image/png'
+2025-02-27T20:57:55: }
+2025-02-27T20:58:13: file {
+2025-02-27T20:58:13:   fieldname: 'clientLogo',
+2025-02-27T20:58:13:   originalname: '4-1.png',
+2025-02-27T20:58:13:   encoding: '7bit',
+2025-02-27T20:58:13:   mimetype: 'image/png'
+2025-02-27T20:58:13: }
+2025-02-27T20:58:28: file {
+2025-02-27T20:58:28:   fieldname: 'clientLogo',
+2025-02-27T20:58:28:   originalname: 'hm.png',
+2025-02-27T20:58:28:   encoding: '7bit',
+2025-02-27T20:58:28:   mimetype: 'image/png'
+2025-02-27T20:58:28: }
+2025-02-27T20:59:17: Backend running at 8000
+2025-02-27T20:59:17: db connected
+2025-02-27T20:59:46: Backend running at 8000
+2025-02-27T20:59:46: db connected
+2025-02-27T21:03:24: Backend running at 8000
+2025-02-27T21:03:24: db connected
+2025-02-27T21:04:05: Backend running at 8000
+2025-02-27T21:04:06: db connected
+2025-02-27T21:04:09: \client\file_1740670075943.png
+2025-02-27T21:04:32: Backend running at 8000
+2025-02-27T21:04:32: db connected
+2025-02-27T21:05:55: Backend running at 8000
+2025-02-27T21:05:55: db connected
+2025-02-27T21:06:11: \client\file_1740670516670.gif
+2025-02-27T21:06:41: Backend running at 8000
+2025-02-27T21:06:41: db connected
+2025-02-27T21:06:46: \client\file_1740670516670.gif
+2025-02-27T21:06:59: Backend running at 8000
+2025-02-27T21:06:59: db connected
+2025-02-27T21:21:39: Backend running at 8000
+2025-02-27T21:21:39: db connected
+2025-02-28T09:24:14: re-connecting
+2025-02-28T13:24:12: re-connecting
+2025-03-01T16:25:42: Backend running at 8000
+2025-03-01T16:25:42: db connected
+2025-03-01T16:25:56: Backend running at 8000
+2025-03-01T16:25:56: db connected
+2025-03-01T22:54:36: re-connecting
+2025-03-02T15:14:20: re-connecting
+2025-03-02T15:48:52: Backend running at 8000
+2025-03-02T15:48:52: db connected
+2025-03-02T15:48:55: Backend running at 8000
+2025-03-02T15:48:55: db connected
+2025-03-02T15:49:58: Backend running at 8000
+2025-03-02T15:49:58: db connected
+2025-03-02T15:50:16: Backend running at 8000
+2025-03-02T15:50:16: db connected
+2025-03-02T16:15:16: Backend running at 8000
+2025-03-02T16:15:16: db connected
+2025-03-02T17:56:19: Backend running at 8000
+2025-03-02T17:56:19: db connected
+2025-03-02T17:56:22: Backend running at 8000
+2025-03-02T17:56:22: db connected
+2025-03-02T22:26:29: re-connecting
+2025-03-02T23:00:34: Backend running at 8000
+2025-03-02T23:00:34: db connected
+2025-03-02T23:00:36: Backend running at 8000
+2025-03-02T23:00:36: db connected
+2025-03-02T23:03:08: Backend running at 8000
+2025-03-02T23:03:08: db connected
+2025-03-02T23:03:30: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' unio' at line 1
+2025-03-02T23:03:30:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-02T23:03:30:     at clientdashboard (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:491:56)
+2025-03-02T23:03:30:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-02T23:03:30:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-03-02T23:03:30:     at Route.dispatch (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:119:3)
+2025-03-02T23:03:30:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-02T23:03:30:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:284:15
+2025-03-02T23:03:30:     at Function.process_params (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:346:12)
+2025-03-02T23:03:30:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:280:10)
+2025-03-02T23:03:30:     at Function.handle (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:175:3) {
+2025-03-02T23:03:30:   code: 'ER_PARSE_ERROR',
+2025-03-02T23:03:30:   errno: 1064,
+2025-03-02T23:03:30:   sql: "select camp_id, campaign_name, start_date, end_date, camp_type,  from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' union  select camp_id, campaign_name, start_date, end_date, camp_type from videocampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' order by start_date desc;",
+2025-03-02T23:03:30:   sqlState: '42000',
+2025-03-02T23:03:30:   sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' unio' at line 1"
+2025-03-02T23:03:30: }
+2025-03-02T23:03:30: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' unio' at line 1
+2025-03-02T23:03:30:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-02T23:03:30:     at clientdashboard (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:491:56)
+2025-03-02T23:03:30:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-02T23:03:30:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-03-02T23:03:30:     at Route.dispatch (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:119:3)
+2025-03-02T23:03:30:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-02T23:03:30:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:284:15
+2025-03-02T23:03:30:     at Function.process_params (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:346:12)
+2025-03-02T23:03:30:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:280:10)
+2025-03-02T23:03:30:     at Function.handle (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:175:3) {
+2025-03-02T23:03:30:   code: 'ER_PARSE_ERROR',
+2025-03-02T23:03:30:   errno: 1064,
+2025-03-02T23:03:30:   sql: "select camp_id, campaign_name, start_date, end_date, camp_type,  from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' union  select camp_id, campaign_name, start_date, end_date, camp_type from videocampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' order by start_date desc;",
+2025-03-02T23:03:30:   sqlState: '42000',
+2025-03-02T23:03:30:   sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' unio' at line 1"
+2025-03-02T23:03:30: }
+2025-03-02T23:03:30: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' unio' at line 1
+2025-03-02T23:03:30:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-02T23:03:30:     at clientdashboard (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:491:56)
+2025-03-02T23:03:30:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-02T23:03:30:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-03-02T23:03:30:     at Route.dispatch (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:119:3)
+2025-03-02T23:03:30:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-03-02T23:03:30:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:284:15
+2025-03-02T23:03:30:     at Function.process_params (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:346:12)
+2025-03-02T23:03:30:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:280:10)
+2025-03-02T23:03:30:     at Function.handle (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:175:3) {
+2025-03-02T23:03:30:   code: 'ER_PARSE_ERROR',
+2025-03-02T23:03:30:   errno: 1064,
+2025-03-02T23:03:30:   sql: "select camp_id, campaign_name, start_date, end_date, camp_type,  from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' union  select camp_id, campaign_name, start_date, end_date, camp_type from videocampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' order by start_date desc;",
+2025-03-02T23:03:30:   sqlState: '42000',
+2025-03-02T23:03:30:   sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from bannercampaigns where client_id='c0cc6e97-f717-4050-9664-76ac0c9a7cca' unio' at line 1"
+2025-03-02T23:03:30: }
+2025-03-02T23:17:45: Backend running at 8000
+2025-03-02T23:17:45: db connected
+2025-03-02T23:25:01: Backend running at 8000
+2025-03-02T23:25:01: db connected
+2025-03-02T23:26:39: Backend running at 8000
+2025-03-02T23:26:39: db connected
+2025-03-03T00:11:37: Error: Field 'video_views' doesn't have a default value
+2025-03-03T00:11:37:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-03T00:11:37:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:148:48)
+2025-03-03T00:11:37:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-03-03T00:11:37:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+2025-03-03T00:11:37:   code: 'ER_NO_DEFAULT_FOR_FIELD',
+2025-03-03T00:11:37:   errno: 1364,
+2025-03-03T00:11:37:   sql: "insert into apps_and_urls_data_report (client_name, campaign_name, apps_and_urls,impressions,clicks, ctr, camp_id, client_id) values('Test2025', 'Banner01', 'news18.com', '682015', '2204', 0.32, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'm.timesofindia.com', '677785', '2358', 0.35, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'abplive.com', '627967', '2332', 0.37, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'india.com', '555871', '2945', 0.53, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'ndtv.com', '543614', '1533', 0.28, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'indiatoday.in', '532884', '1821', 0.34, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'indianexpress.com', '474898', '1415', 0.3, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'm.economictimes.com', '410819', '1713', 0.42, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'm.hindustantimes.com', '384659', '1636', 0.43, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'm.cricbuzz.com', '343033', '1926', 0.56, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'moneycontrol.com', '323459', '1044', 0.32, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'tripadvisor.in', '254431', '1492', 0.59, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'cricbuzz.com', '253970', '426', 0.17, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'The Times of India - iOS (427589329)', '233039', '523', 0.22, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'thehindu.com', '231561', '567', 0.24, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'zeenews.india.com', '229983', '1015', 0.44, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Cricbuzz - Live Cricket Scores & News - iOS (360466413)', '228222', '865', 0.38, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'tamil.oneindia.com', '211622', '754', 0.36, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'sports.ndtv.com', '203770', '389', 0.19, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'hindi.moneycontrol.com', '202344', '286', 0.14, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'financialexpress.com', '197515', '432', 0.22, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'hindustantimes.com', '183476', '858', 0.47, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Moneycontrol\\'s Markets on Mobile - iOS (408654600)', '180557', '527', 0.29, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'businesstoday.in', '153211', '446', 0.29, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'cnn.com', '132847', '234', 0.18, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'economictimes.com', '125744', '325', 0.26, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'republicworld.com', '124471', '534', 0.43, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'buzzfeed.com', '112728', '240', 0.21, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Cricbuzz - In Indian Languages - Android (com.cricbuzz.android.vernacular)', '110484', '281', 0.25, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'News18- Latest & Live News App - Android (com.divum.ibn)', '100129', '154', 0.15, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'autocarindia.com', '88946', '165', 0.19, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'cnbctv18.com', '65656', '123', 0.19, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Hindustan Times - News - iOS (1000991178)', '62047', '123', 0.2, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'businessinsider.in', '57056', '145', 0.25, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'firstpost.com', '52631', '34', 0.06, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'hindi.business-standard.com', '45002', '85', 0.19, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'livemint.com', '43338', '93', 0.21, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'timesnownews.com', '25638', '132', 0.51, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Republic TV # Live Breaking News - Android (com.republicworld)', '23683', '214', 0.9, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'outlookindia.com', '23478', '53', 0.23, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'femina.in', '20384', '121', 0.59, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'business-standard.com', '16516', '134', 0.81, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'msn.com', '14989', '37', 0.25, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'investing.com', '13476', '123', 0.91, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'MCX LIVE by Market Pulse - Android (in.marketpulse)', '12859', '166', 1.29, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'thehindubusinessline.com', '12104', '2', 0.02, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'vogue.in', '10635', '51', 0.48, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'BBC News - Android (bbc.mobile.news.ww)', '5467', '2', 0.04, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'ET Markets - iOS (895812527)', '2128', '0', 0, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'ESPNcricinfo Cricket - iOS (417408017)', '1004', '5', 0.5, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Stocks, Forex, Futures & News - Android (com.fusionmedia.investing)', '955', '23', 2.41, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Financial Express for iPhone - iOS (508738603)', '924', '17', 1.84, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'indian rail train info hotels - Android (com.ixigo.train.ixitrain)', '718', '23', 3.2, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Financial Express - Latest Mar - Android (com.financialexpress.android)', '512', '3', 0.59, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'nytimes.com', '465', '1', 0.22, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'NDTV India Hindi News - Android (com.ndtv.india)', '458', '3', 0.66, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'forbes.com', '456', '7', 1.54, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'Investing.com - Stocks, Forex, Futures & News -iOS (909998122)', '413', '1', 0.24, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'reuters.com', '348', '1', 0.29, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'telegraphindia.com', '264', '5', 1.89, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'bbc.com', '264', '3', 1.14, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'theguardian.com', '202', '1', 0.5, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'BBC News - iOS (364147881)', '135', '2', 1.48, '12d913eb-e40f-409c-a486-d3bbe69ae297', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Banner01', 'NDTV India - iOS (1225487963)', '119', '4', 3.36"... 1476 more characters,
+2025-03-03T00:11:37:   sqlState: 'HY000',
+2025-03-03T00:11:37:   sqlMessage: "Field 'video_views' doesn't have a default value"
+2025-03-03T00:11:37: }
+2025-03-03T00:29:22: Error: Data truncated for column 'impressions' at row 1
+2025-03-03T00:29:22:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-03T00:29:22:     at addreport (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:181:36)
+2025-03-03T00:29:22:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+2025-03-03T00:29:22:   code: 'WARN_DATA_TRUNCATED',
+2025-03-03T00:29:22:   errno: 1265,
+2025-03-03T00:29:22:   sql: "insert into apps_and_urls_data_report (client_name, campaign_name, apps_and_urls,impressions,clicks,video_views,`25%_video_views`, `50%_video_views`,`75%_video_views`,complete_video_views, ctr, camp_id, client_id) values('Test2025', 'Video01', 'harpersbazaar', '96,251', '652', '95,579', '68,861', '60,259', '37,143', '37,033', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'cosmopolitan.in', '95,482', '673', '94,789', '64,509', '54,082', '37,916', '37,072', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'vogue.in', '93,270', '595', '92,196', '69,225', '50,786', '38,566', '36,190', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'stylecraze', '90,753', '540', '89,990', '54,994', '56,794', '40,001', '38,196', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '89,970', '601', '89,876', '63,913', '54,926', '36,708', '34,760', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'koimoi', '89,495', '652', '88,683', '60,418', '55,983', '35,463', '34,813', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '88,934', '616', '88,062', '64,405', '50,315', '38,986', '38,177', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'msn', '88,965', '616', '88,041', '62,629', '55,585', '40,738', '38,096', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'gqindia', '81,488', '501', '80,709', '47,811', '52,654', '39,126', '36,091', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'grazia.co.in', '75,165', '520', '74,438', '57,573', '48,174', '36,986', '34,008', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'lifestyleasia', '74,761', '528', '74,040', '52,828', '41,722', '33,837', '33,097', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiaglitz', '71,428', '437', '70,749', '47,694', '47,034', '31,715', '30,300', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Livemint', '67,601', '341', '66,959', '49,880', '39,430', '29,453', '29,001', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bollywoodhungama', '67,396', '465', '66,755', '47,729', '41,053', '32,040', '31,055', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'ndtv', '63,140', '426', '62,544', '43,530', '39,152', '33,770', '31,396', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'zeenews.india', '60,378', '377', '59,814', '46,459', '35,094', '25,926', '25,327', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'news18', '59,920', '341', '59,359', '42,551', '37,803', '28,118', '26,337', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiatimes', '59,431', '327', '58,877', '39,270', '35,737', '26,140', '26,003', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'india.com', '59,431', '341', '58,877', '41,036', '33,382', '29,176', '27,855', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'mid-day', '59,431', '341', '58,877', '42,214', '35,149', '29,083', '27,551', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bombaytimes', '59,358', '398', '58,802', '38,633', '36,281', '27,873', '26,109', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'timesofindia', '58,549', '341', '58,007', '41,605', '34,064', '28,683', '27,783', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Deccan Herald', '52,923', '341', '52,448', '37,714', '34,042', '26,651', '25,602', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Mint', '52,220', '341', '51,743', '38,185', '34,116', '23,732', '23,215', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indianexpress', '51,925', '341', '51,458', '37,021', '30,846', '25,671', '24,039', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'firstpost', '51,483', '341', '51,014', '35,179', '30,078', '24,446', '23,385', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'business-standard', '50,742', '341', '50,280', '32,809', '31,168', '23,118', '22,710', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'dnaindia', '49,703', '341', '49,263', '35,484', '29,573', '25,154', '22,198', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'hindustantimes', '49,631', '341', '49,188', '33,956', '30,513', '23,151', '21,675', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financial Times', '45,573', '341', '45,171', '33,523', '28,103', '21,875', '20,972', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'intoday.in', '45,558', '211', '45,156', '32,609', '26,287', '21,417', '20,514', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'deccanchronicle', '45,372', '172', '44,975', '27,086', '26,636', '22,239', '20,890', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'moneycontrol', '45,294', '226', '44,893', '35,119', '27,936', '22,651', '20,957', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'abplive.in', '44,485', '275', '44,098', '31,869', '29,664', '20,080', '19,639', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'economicstimes', '44,465', '145', '44,075', '32,734', '26,123', '21,834', '21,393', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Hindustan Times', '44,449', '137', '44,062', '33,165', '25,675', '22,709', '20,065', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'forbesindia', '43,916', '187', '43,534', '30,168', '27,120', '20,720', '18,978', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'BusinessInsider', '43,894', '151', '43,515', '31,461', '27,109', '19,841', '19,406', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financialexpress', '42,952', '137', '42,585', '30,810', '25,699', '22,015', '20,466', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'businessworld.in', '41,905', '172', '41,177', '28,589', '25,294', '21,353', '19,970', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bloomberg', '41,376', '151', '41,019', '30,534', '23,560', '21,279', '19,860', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'thehindu', '39,653', '141', '39,328', '27,350', '23,810', '20,484', '18,945', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Business Line', '38,380', '166', '38,283', '29,329', '23,970', '19,993', '18,845', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798')",
+2025-03-03T00:29:22:   sqlState: '01000',
+2025-03-03T00:29:22:   sqlMessage: "Data truncated for column 'impressions' at row 1"
+2025-03-03T00:29:22: }
+2025-03-03T00:33:15: Backend running at 8000
+2025-03-03T00:33:15: db connected
+2025-03-03T00:33:17: Backend running at 8000
+2025-03-03T00:33:17: db connected
+2025-03-03T00:33:28: Error: Data truncated for column 'impressions' at row 1
+2025-03-03T00:33:28:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-03T00:33:28:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:148:48)
+2025-03-03T00:33:28:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-03-03T00:33:28:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+2025-03-03T00:33:28:   code: 'WARN_DATA_TRUNCATED',
+2025-03-03T00:33:28:   errno: 1265,
+2025-03-03T00:33:28:   sql: "insert into apps_and_urls_data_report (client_name, campaign_name, apps_and_urls,impressions,clicks,video_views,`25%_video_views`, `50%_video_views`,`75%_video_views`,complete_video_views, ctr, camp_id, client_id) values('Test2025', 'Video01', 'harpersbazaar', '96,251', '652', '95,579', '68,861', '60,259', '37,143', '37,033', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'cosmopolitan.in', '95,482', '673', '94,789', '64,509', '54,082', '37,916', '37,072', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'vogue.in', '93,270', '595', '92,196', '69,225', '50,786', '38,566', '36,190', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'stylecraze', '90,753', '540', '89,990', '54,994', '56,794', '40,001', '38,196', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '89,970', '601', '89,876', '63,913', '54,926', '36,708', '34,760', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'koimoi', '89,495', '652', '88,683', '60,418', '55,983', '35,463', '34,813', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '88,934', '616', '88,062', '64,405', '50,315', '38,986', '38,177', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'msn', '88,965', '616', '88,041', '62,629', '55,585', '40,738', '38,096', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'gqindia', '81,488', '501', '80,709', '47,811', '52,654', '39,126', '36,091', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'grazia.co.in', '75,165', '520', '74,438', '57,573', '48,174', '36,986', '34,008', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'lifestyleasia', '74,761', '528', '74,040', '52,828', '41,722', '33,837', '33,097', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiaglitz', '71,428', '437', '70,749', '47,694', '47,034', '31,715', '30,300', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Livemint', '67,601', '341', '66,959', '49,880', '39,430', '29,453', '29,001', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bollywoodhungama', '67,396', '465', '66,755', '47,729', '41,053', '32,040', '31,055', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'ndtv', '63,140', '426', '62,544', '43,530', '39,152', '33,770', '31,396', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'zeenews.india', '60,378', '377', '59,814', '46,459', '35,094', '25,926', '25,327', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'news18', '59,920', '341', '59,359', '42,551', '37,803', '28,118', '26,337', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiatimes', '59,431', '327', '58,877', '39,270', '35,737', '26,140', '26,003', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'india.com', '59,431', '341', '58,877', '41,036', '33,382', '29,176', '27,855', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'mid-day', '59,431', '341', '58,877', '42,214', '35,149', '29,083', '27,551', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bombaytimes', '59,358', '398', '58,802', '38,633', '36,281', '27,873', '26,109', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'timesofindia', '58,549', '341', '58,007', '41,605', '34,064', '28,683', '27,783', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Deccan Herald', '52,923', '341', '52,448', '37,714', '34,042', '26,651', '25,602', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Mint', '52,220', '341', '51,743', '38,185', '34,116', '23,732', '23,215', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indianexpress', '51,925', '341', '51,458', '37,021', '30,846', '25,671', '24,039', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'firstpost', '51,483', '341', '51,014', '35,179', '30,078', '24,446', '23,385', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'business-standard', '50,742', '341', '50,280', '32,809', '31,168', '23,118', '22,710', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'dnaindia', '49,703', '341', '49,263', '35,484', '29,573', '25,154', '22,198', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'hindustantimes', '49,631', '341', '49,188', '33,956', '30,513', '23,151', '21,675', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financial Times', '45,573', '341', '45,171', '33,523', '28,103', '21,875', '20,972', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'intoday.in', '45,558', '211', '45,156', '32,609', '26,287', '21,417', '20,514', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'deccanchronicle', '45,372', '172', '44,975', '27,086', '26,636', '22,239', '20,890', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'moneycontrol', '45,294', '226', '44,893', '35,119', '27,936', '22,651', '20,957', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'abplive.in', '44,485', '275', '44,098', '31,869', '29,664', '20,080', '19,639', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'economicstimes', '44,465', '145', '44,075', '32,734', '26,123', '21,834', '21,393', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Hindustan Times', '44,449', '137', '44,062', '33,165', '25,675', '22,709', '20,065', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'forbesindia', '43,916', '187', '43,534', '30,168', '27,120', '20,720', '18,978', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'BusinessInsider', '43,894', '151', '43,515', '31,461', '27,109', '19,841', '19,406', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financialexpress', '42,952', '137', '42,585', '30,810', '25,699', '22,015', '20,466', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'businessworld.in', '41,905', '172', '41,177', '28,589', '25,294', '21,353', '19,970', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bloomberg', '41,376', '151', '41,019', '30,534', '23,560', '21,279', '19,860', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'thehindu', '39,653', '141', '39,328', '27,350', '23,810', '20,484', '18,945', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Business Line', '38,380', '166', '38,283', '29,329', '23,970', '19,993', '18,845', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798')",
+2025-03-03T00:33:28:   sqlState: '01000',
+2025-03-03T00:33:28:   sqlMessage: "Data truncated for column 'impressions' at row 1"
+2025-03-03T00:33:28: }
+2025-03-03T00:34:17: Error: Data truncated for column 'impressions' at row 1
+2025-03-03T00:34:17:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-03T00:34:17:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:148:48)
+2025-03-03T00:34:17:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-03-03T00:34:17:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+2025-03-03T00:34:17:   code: 'WARN_DATA_TRUNCATED',
+2025-03-03T00:34:17:   errno: 1265,
+2025-03-03T00:34:17:   sql: "insert into apps_and_urls_data_report (client_name, campaign_name, apps_and_urls,impressions,clicks,video_views,`25%_video_views`, `50%_video_views`,`75%_video_views`,complete_video_views, ctr, camp_id, client_id) values('Test2025', 'Video01', 'harpersbazaar', '96,251', '652', '95,579', '68,861', '60,259', '37,143', '37,033', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'cosmopolitan.in', '95,482', '673', '94,789', '64,509', '54,082', '37,916', '37,072', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'vogue.in', '93,270', '595', '92,196', '69,225', '50,786', '38,566', '36,190', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'stylecraze', '90,753', '540', '89,990', '54,994', '56,794', '40,001', '38,196', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '89,970', '601', '89,876', '63,913', '54,926', '36,708', '34,760', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'koimoi', '89,495', '652', '88,683', '60,418', '55,983', '35,463', '34,813', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '88,934', '616', '88,062', '64,405', '50,315', '38,986', '38,177', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'msn', '88,965', '616', '88,041', '62,629', '55,585', '40,738', '38,096', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'gqindia', '81,488', '501', '80,709', '47,811', '52,654', '39,126', '36,091', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'grazia.co.in', '75,165', '520', '74,438', '57,573', '48,174', '36,986', '34,008', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'lifestyleasia', '74,761', '528', '74,040', '52,828', '41,722', '33,837', '33,097', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiaglitz', '71,428', '437', '70,749', '47,694', '47,034', '31,715', '30,300', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Livemint', '67,601', '341', '66,959', '49,880', '39,430', '29,453', '29,001', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bollywoodhungama', '67,396', '465', '66,755', '47,729', '41,053', '32,040', '31,055', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'ndtv', '63,140', '426', '62,544', '43,530', '39,152', '33,770', '31,396', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'zeenews.india', '60,378', '377', '59,814', '46,459', '35,094', '25,926', '25,327', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'news18', '59,920', '341', '59,359', '42,551', '37,803', '28,118', '26,337', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiatimes', '59,431', '327', '58,877', '39,270', '35,737', '26,140', '26,003', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'india.com', '59,431', '341', '58,877', '41,036', '33,382', '29,176', '27,855', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'mid-day', '59,431', '341', '58,877', '42,214', '35,149', '29,083', '27,551', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bombaytimes', '59,358', '398', '58,802', '38,633', '36,281', '27,873', '26,109', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'timesofindia', '58,549', '341', '58,007', '41,605', '34,064', '28,683', '27,783', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Deccan Herald', '52,923', '341', '52,448', '37,714', '34,042', '26,651', '25,602', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Mint', '52,220', '341', '51,743', '38,185', '34,116', '23,732', '23,215', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indianexpress', '51,925', '341', '51,458', '37,021', '30,846', '25,671', '24,039', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'firstpost', '51,483', '341', '51,014', '35,179', '30,078', '24,446', '23,385', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'business-standard', '50,742', '341', '50,280', '32,809', '31,168', '23,118', '22,710', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'dnaindia', '49,703', '341', '49,263', '35,484', '29,573', '25,154', '22,198', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'hindustantimes', '49,631', '341', '49,188', '33,956', '30,513', '23,151', '21,675', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financial Times', '45,573', '341', '45,171', '33,523', '28,103', '21,875', '20,972', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'intoday.in', '45,558', '211', '45,156', '32,609', '26,287', '21,417', '20,514', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'deccanchronicle', '45,372', '172', '44,975', '27,086', '26,636', '22,239', '20,890', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'moneycontrol', '45,294', '226', '44,893', '35,119', '27,936', '22,651', '20,957', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'abplive.in', '44,485', '275', '44,098', '31,869', '29,664', '20,080', '19,639', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'economicstimes', '44,465', '145', '44,075', '32,734', '26,123', '21,834', '21,393', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Hindustan Times', '44,449', '137', '44,062', '33,165', '25,675', '22,709', '20,065', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'forbesindia', '43,916', '187', '43,534', '30,168', '27,120', '20,720', '18,978', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'BusinessInsider', '43,894', '151', '43,515', '31,461', '27,109', '19,841', '19,406', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financialexpress', '42,952', '137', '42,585', '30,810', '25,699', '22,015', '20,466', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'businessworld.in', '41,905', '172', '41,177', '28,589', '25,294', '21,353', '19,970', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bloomberg', '41,376', '151', '41,019', '30,534', '23,560', '21,279', '19,860', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'thehindu', '39,653', '141', '39,328', '27,350', '23,810', '20,484', '18,945', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Business Line', '38,380', '166', '38,283', '29,329', '23,970', '19,993', '18,845', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798')",
+2025-03-03T00:34:17:   sqlState: '01000',
+2025-03-03T00:34:17:   sqlMessage: "Data truncated for column 'impressions' at row 1"
+2025-03-03T00:34:17: }
+2025-03-03T00:34:21: Error: Data truncated for column 'impressions' at row 1
+2025-03-03T00:34:21:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-03T00:34:21:     at addreport (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:181:36)
+2025-03-03T00:34:21:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {
+2025-03-03T00:34:21:   code: 'WARN_DATA_TRUNCATED',
+2025-03-03T00:34:21:   errno: 1265,
+2025-03-03T00:34:21:   sql: "insert into apps_and_urls_data_report (client_name, campaign_name, apps_and_urls,impressions,clicks,video_views,`25%_video_views`, `50%_video_views`,`75%_video_views`,complete_video_views, ctr, camp_id, client_id) values('Test2025', 'Video01', 'harpersbazaar', '96,251', '652', '95,579', '68,861', '60,259', '37,143', '37,033', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'cosmopolitan.in', '95,482', '673', '94,789', '64,509', '54,082', '37,916', '37,072', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'vogue.in', '93,270', '595', '92,196', '69,225', '50,786', '38,566', '36,190', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'stylecraze', '90,753', '540', '89,990', '54,994', '56,794', '40,001', '38,196', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '89,970', '601', '89,876', '63,913', '54,926', '36,708', '34,760', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'koimoi', '89,495', '652', '88,683', '60,418', '55,983', '35,463', '34,813', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '88,934', '616', '88,062', '64,405', '50,315', '38,986', '38,177', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'msn', '88,965', '616', '88,041', '62,629', '55,585', '40,738', '38,096', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'gqindia', '81,488', '501', '80,709', '47,811', '52,654', '39,126', '36,091', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'grazia.co.in', '75,165', '520', '74,438', '57,573', '48,174', '36,986', '34,008', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'lifestyleasia', '74,761', '528', '74,040', '52,828', '41,722', '33,837', '33,097', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiaglitz', '71,428', '437', '70,749', '47,694', '47,034', '31,715', '30,300', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Livemint', '67,601', '341', '66,959', '49,880', '39,430', '29,453', '29,001', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bollywoodhungama', '67,396', '465', '66,755', '47,729', '41,053', '32,040', '31,055', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'ndtv', '63,140', '426', '62,544', '43,530', '39,152', '33,770', '31,396', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'zeenews.india', '60,378', '377', '59,814', '46,459', '35,094', '25,926', '25,327', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'news18', '59,920', '341', '59,359', '42,551', '37,803', '28,118', '26,337', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiatimes', '59,431', '327', '58,877', '39,270', '35,737', '26,140', '26,003', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'india.com', '59,431', '341', '58,877', '41,036', '33,382', '29,176', '27,855', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'mid-day', '59,431', '341', '58,877', '42,214', '35,149', '29,083', '27,551', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bombaytimes', '59,358', '398', '58,802', '38,633', '36,281', '27,873', '26,109', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'timesofindia', '58,549', '341', '58,007', '41,605', '34,064', '28,683', '27,783', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Deccan Herald', '52,923', '341', '52,448', '37,714', '34,042', '26,651', '25,602', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Mint', '52,220', '341', '51,743', '38,185', '34,116', '23,732', '23,215', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indianexpress', '51,925', '341', '51,458', '37,021', '30,846', '25,671', '24,039', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'firstpost', '51,483', '341', '51,014', '35,179', '30,078', '24,446', '23,385', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'business-standard', '50,742', '341', '50,280', '32,809', '31,168', '23,118', '22,710', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'dnaindia', '49,703', '341', '49,263', '35,484', '29,573', '25,154', '22,198', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'hindustantimes', '49,631', '341', '49,188', '33,956', '30,513', '23,151', '21,675', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financial Times', '45,573', '341', '45,171', '33,523', '28,103', '21,875', '20,972', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'intoday.in', '45,558', '211', '45,156', '32,609', '26,287', '21,417', '20,514', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'deccanchronicle', '45,372', '172', '44,975', '27,086', '26,636', '22,239', '20,890', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'moneycontrol', '45,294', '226', '44,893', '35,119', '27,936', '22,651', '20,957', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'abplive.in', '44,485', '275', '44,098', '31,869', '29,664', '20,080', '19,639', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'economicstimes', '44,465', '145', '44,075', '32,734', '26,123', '21,834', '21,393', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Hindustan Times', '44,449', '137', '44,062', '33,165', '25,675', '22,709', '20,065', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'forbesindia', '43,916', '187', '43,534', '30,168', '27,120', '20,720', '18,978', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'BusinessInsider', '43,894', '151', '43,515', '31,461', '27,109', '19,841', '19,406', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financialexpress', '42,952', '137', '42,585', '30,810', '25,699', '22,015', '20,466', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'businessworld.in', '41,905', '172', '41,177', '28,589', '25,294', '21,353', '19,970', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bloomberg', '41,376', '151', '41,019', '30,534', '23,560', '21,279', '19,860', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'thehindu', '39,653', '141', '39,328', '27,350', '23,810', '20,484', '18,945', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Business Line', '38,380', '166', '38,283', '29,329', '23,970', '19,993', '18,845', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798')",
+2025-03-03T00:34:21:   sqlState: '01000',
+2025-03-03T00:34:21:   sqlMessage: "Data truncated for column 'impressions' at row 1"
+2025-03-03T00:34:21: }
+2025-03-03T00:41:25: Error: Data truncated for column 'impressions' at row 1
+2025-03-03T00:41:25:     at PromiseConnection.query (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\promise.js:94:22)
+2025-03-03T00:41:25:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:148:48)
+2025-03-03T00:41:25:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-03-03T00:41:25:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+2025-03-03T00:41:25:   code: 'WARN_DATA_TRUNCATED',
+2025-03-03T00:41:25:   errno: 1265,
+2025-03-03T00:41:25:   sql: "insert into apps_and_urls_data_report (client_name, campaign_name, apps_and_urls,impressions,clicks,video_views,`25%_video_views`, `50%_video_views`,`75%_video_views`,complete_video_views, ctr, camp_id, client_id) values('Test2025', 'Video01', 'harpersbazaar', '96,251', '652', '95579', '68861', '60259', '37143', '37033', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'cosmopolitan.in', '95,482', '673', '94789', '64509', '54082', '37916', '37072', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'vogue.in', '93,270', '595', '92196', '69225', '50786', '38566', '36190', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'stylecraze', '90,753', '540', '89990', '54994', '56794', '40001', '38196', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '89,970', '601', '89876', '63913', '54926', '36708', '34760', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'koimoi', '89,495', '652', '88683', '60418', '55983', '35463', '34813', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'filmfare', '88,934', '616', '88062', '64405', '50315', '38986', '38177', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'msn', '88,965', '616', '88041', '62629', '55585', '40738', '38096', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'gqindia', '81,488', '501', '80709', '47811', '52654', '39126', '36091', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'grazia.co.in', '75,165', '520', '74438', '57573', '48174', '36986', '34008', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'lifestyleasia', '74,761', '528', '74040', '52828', '41722', '33837', '33097', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiaglitz', '71,428', '437', '70749', '47694', '47034', '31715', '30300', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Livemint', '67,601', '341', '66959', '49880', '39430', '29453', '29001', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bollywoodhungama', '67,396', '465', '66755', '47729', '41053', '32040', '31055', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'ndtv', '63,140', '426', '62544', '43530', '39152', '33770', '31396', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'zeenews.india', '60,378', '377', '59814', '46459', '35094', '25926', '25327', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'news18', '59,920', '341', '59359', '42551', '37803', '28118', '26337', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indiatimes', '59,431', '327', '58877', '39270', '35737', '26140', '26003', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'india.com', '59,431', '341', '58877', '41036', '33382', '29176', '27855', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'mid-day', '59,431', '341', '58877', '42214', '35149', '29083', '27551', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bombaytimes', '59,358', '398', '58802', '38633', '36281', '27873', '26109', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'timesofindia', '58,549', '341', '58007', '41605', '34064', '28683', '27783', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Deccan Herald', '52,923', '341', '52448', '37714', '34042', '26651', '25602', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Mint', '52,220', '341', '51743', '38185', '34116', '23732', '23215', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'indianexpress', '51,925', '341', '51458', '37021', '30846', '25671', '24039', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'firstpost', '51,483', '341', '51014', '35179', '30078', '24446', '23385', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'business-standard', '50,742', '341', '50280', '32809', '31168', '23118', '22710', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'dnaindia', '49,703', '341', '49263', '35484', '29573', '25154', '22198', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'hindustantimes', '49,631', '341', '49188', '33956', '30513', '23151', '21675', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financial Times', '45,573', '341', '45171', '33523', '28103', '21875', '20972', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'intoday.in', '45,558', '211', '45156', '32609', '26287', '21417', '20514', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'deccanchronicle', '45,372', '172', '44975', '27086', '26636', '22239', '20890', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'moneycontrol', '45,294', '226', '44893', '35119', '27936', '22651', '20957', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'abplive.in', '44,485', '275', '44098', '31869', '29664', '20080', '19639', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'economicstimes', '44,465', '145', '44075', '32734', '26123', '21834', '21393', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Hindustan Times', '44,449', '137', '44062', '33165', '25675', '22709', '20065', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'forbesindia', '43,916', '187', '43534', '30168', '27120', '20720', '18978', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'BusinessInsider', '43,894', '151', '43515', '31461', '27109', '19841', '19406', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Financialexpress', '42,952', '137', '42585', '30810', '25699', '22015', '20466', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'businessworld.in', '41,905', '172', '41177', '28589', '25294', '21353', '19970', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'bloomberg', '41,376', '151', '41019', '30534', '23560', '21279', '19860', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'thehindu', '39,653', '141', '39328', '27350', '23810', '20484', '18945', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798'),('Test2025', 'Video01', 'Business Line', '38,380', '166', '38283', '29329', '23970', '19993', '18845', 0, '80567b3a-7e98-4f06-b8c4-2642e304d938', 'c7492f04-3aa5-4be2-824c-1a5987a44798')",
+2025-03-03T00:41:25:   sqlState: '01000',
+2025-03-03T00:41:25:   sqlMessage: "Data truncated for column 'impressions' at row 1"
+2025-03-03T00:41:25: }
+2025-03-03T00:58:51: Backend running at 8000
+2025-03-03T00:58:51: db connected
+2025-03-03T01:00:03: Backend running at 8000
+2025-03-03T01:00:03: db connected
+2025-03-03T01:12:48: Backend running at 8000
+2025-03-03T01:12:48: db connected
+2025-03-03T01:12:58: ReferenceError: mostRecentCamp is not defined
+2025-03-03T01:12:58:     at campaigninfo (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:696:48)
+2025-03-03T01:12:58:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T01:13:21: Backend running at 8000
+2025-03-03T01:13:21: db connected
+2025-03-03T01:13:30: ReferenceError: mostRecentCamp is not defined
+2025-03-03T01:13:30:     at campaigninfo (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:696:48)
+2025-03-03T01:13:30:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T01:15:07: Backend running at 8000
+2025-03-03T01:15:07: db connected
+2025-03-03T01:15:25: Backend running at 8000
+2025-03-03T01:15:25: db connected
+2025-03-03T01:25:26: Backend running at 8000
+2025-03-03T01:25:26: db connected
+2025-03-03T01:25:40: ReferenceError: client_id is not defined
+2025-03-03T01:25:40:     at searchcampaign (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:836:37)
+2025-03-03T01:25:40:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T01:28:41: Backend running at 8000
+2025-03-03T01:28:41: db connected
+2025-03-03T13:10:02: re-connecting
+2025-03-03T13:17:21: Backend running at 8000
+2025-03-03T13:17:21: db connected
+2025-03-03T13:17:25: Backend running at 8000
+2025-03-03T13:17:25: db connected
+2025-03-03T13:18:02: Backend running at 8000
+2025-03-03T13:18:02: db connected
+2025-03-03T13:19:48: Backend running at 8000
+2025-03-03T13:19:49: db connected
+2025-03-03T13:20:35: Backend running at 8000
+2025-03-03T13:20:35: db connected
+2025-03-03T13:24:53: ReferenceError: client_delate_query is not defined
+2025-03-03T13:24:53:     at deletecampaign (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/campaignform.js:132:38)
+2025-03-03T13:24:53:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T13:25:42: Backend running at 8000
+2025-03-03T13:25:42: db connected
+2025-03-03T13:43:50: ReferenceError: isNan is not defined
+2025-03-03T13:43:50:     at file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:575:98
+2025-03-03T13:43:50:     at Array.forEach (<anonymous>)
+2025-03-03T13:43:50:     at clientdashboard (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:564:35)
+2025-03-03T13:43:50:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T13:43:50: ReferenceError: isNan is not defined
+2025-03-03T13:43:50:     at file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:575:98
+2025-03-03T13:43:50:     at Array.forEach (<anonymous>)
+2025-03-03T13:43:50:     at clientdashboard (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:564:35)
+2025-03-03T13:43:50:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T13:43:55: ReferenceError: isNan is not defined
+2025-03-03T13:43:55:     at file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:575:98
+2025-03-03T13:43:55:     at Array.forEach (<anonymous>)
+2025-03-03T13:43:55:     at clientdashboard (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:564:35)
+2025-03-03T13:43:55:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T13:43:55: ReferenceError: isNan is not defined
+2025-03-03T13:43:55:     at file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:575:98
+2025-03-03T13:43:55:     at Array.forEach (<anonymous>)
+2025-03-03T13:43:55:     at clientdashboard (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:564:35)
+2025-03-03T13:43:55:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T13:43:55: ReferenceError: isNan is not defined
+2025-03-03T13:43:55:     at file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:575:98
+2025-03-03T13:43:55:     at Array.forEach (<anonymous>)
+2025-03-03T13:43:55:     at clientdashboard (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:564:35)
+2025-03-03T13:43:55:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T13:45:13: Backend running at 8000
+2025-03-03T13:45:13: db connected
+2025-03-03T13:47:24: Backend running at 8000
+2025-03-03T13:47:24: db connected
+2025-03-03T18:13:01: re-connecting
+2025-03-03T22:13:00: re-connecting
+2025-03-04T00:34:25: Backend running at 8000
+2025-03-04T00:34:25: db connected

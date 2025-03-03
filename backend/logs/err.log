@@ -1,0 +1,85 @@
+2025-02-13T20:53:49: ReferenceError: query is not defined
+2025-02-13T20:53:49:     at searchreports (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:344:19)
+2025-02-13T20:53:49:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-13T20:53:49:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-02-13T20:53:49:     at Route.dispatch (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:119:3)
+2025-02-13T20:53:49:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-13T20:53:49:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:284:15
+2025-02-13T20:53:49:     at Function.process_params (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:346:12)
+2025-02-13T20:53:49:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:280:10)
+2025-02-13T20:53:49:     at Function.handle (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:175:3)
+2025-02-13T20:53:49:     at router (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:47:12)
+2025-02-13T20:57:06: ReferenceError: query is not defined
+2025-02-13T20:57:06:     at searchreports (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:257:19)
+2025-02-13T20:57:06:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-13T20:57:06:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-02-13T20:57:06:     at Route.dispatch (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:119:3)
+2025-02-13T20:57:06:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-13T20:57:06:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:284:15
+2025-02-13T20:57:06:     at Function.process_params (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:346:12)
+2025-02-13T20:57:06:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:280:10)
+2025-02-13T20:57:06:     at Function.handle (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:175:3)
+2025-02-13T20:57:06:     at router (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:47:12)
+2025-02-27T17:39:18: TypeError: Cannot read properties of undefined (reading 'url')
+2025-02-27T17:39:18:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:23:40)
+2025-02-27T17:39:18:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-02-27T17:39:18:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-02-27T17:40:38: Error: data and salt arguments required
+2025-02-27T17:40:38:     at Object.hashSync (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\bcrypt\bcrypt.js:91:15)
+2025-02-27T17:40:38:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:42:54)
+2025-02-27T17:40:38:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-02-27T17:40:38:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-02-27T17:41:47: Error: data and salt arguments required
+2025-02-27T17:41:47:     at Object.hashSync (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\bcrypt\bcrypt.js:91:15)
+2025-02-27T17:41:47:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:42:54)
+2025-02-27T17:41:47:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-02-27T17:41:47:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-02-27T17:54:30: Error: Route.post() requires a callback function but got a [object Object]
+2025-02-27T17:54:30:     at Route.<computed> [as post] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:216:15)
+2025-02-27T17:54:30:     at proto.<computed> [as post] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\index.js:521:19)
+2025-02-27T17:54:30:     at file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/routes/clientform.js:7:7
+2025-02-27T17:54:30:     at ModuleJob.run (node:internal/modules/esm/module_job:234:25)
+2025-02-27T17:54:30:     at async ModuleLoader.import (node:internal/modules/esm/loader:473:24)
+2025-02-27T18:05:12: Error: ENOENT: no such file or directory, open 'D:\public\client\file_1740659712717.jpeg'
+2025-02-27T18:25:40: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2025-02-27T18:25:40:     at ServerResponse.setHeader (node:_http_outgoing:659:11)
+2025-02-27T18:25:40:     at ServerResponse.header (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\response.js:795:10)
+2025-02-27T18:25:40:     at ServerResponse.send (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\response.js:175:12)
+2025-02-27T18:25:40:     at ServerResponse.json (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\response.js:279:15)
+2025-02-27T18:25:40:     at Query.onResult (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:80:48)
+2025-02-27T18:25:40:     at D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\mysql2\lib\commands\query.js:86:16
+2025-02-27T18:25:40:     at process.processTicksAndRejections (node:internal/process/task_queues:77:11) {
+2025-02-27T18:25:40:   code: 'ERR_HTTP_HEADERS_SENT'
+2025-02-27T18:25:40: }
+2025-02-27T18:35:47: TypeError: Cannot read properties of undefined (reading 'path')
+2025-02-27T18:35:47:     at addclientdetails (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:17:49)
+2025-02-27T18:35:47:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-27T18:35:47:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-02-27T18:35:47:     at done (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:45:7)
+2025-02-27T18:35:47:     at indicateDone (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:49:68)
+2025-02-27T18:35:47:     at Multipart.<anonymous> (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:166:7)
+2025-02-27T18:35:47:     at Multipart.emit (node:events:519:28)
+2025-02-27T18:35:47:     at emitCloseNT (node:internal/streams/destroy:147:10)
+2025-02-27T18:35:47:     at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+2025-02-27T18:36:36: TypeError: Cannot read properties of undefined (reading 'path')
+2025-02-27T18:36:36:     at addclientdetails (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/clientform.js:17:49)
+2025-02-27T18:36:36:     at Layer.handle [as handle_request] (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\layer.js:95:5)
+2025-02-27T18:36:36:     at next (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\express\lib\router\route.js:149:13)
+2025-02-27T18:36:36:     at done (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:45:7)
+2025-02-27T18:36:36:     at indicateDone (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:49:68)
+2025-02-27T18:36:36:     at Multipart.<anonymous> (D:\Projects\React\DigitalMarketing\digital-marketing\backend\node_modules\multer\lib\make-middleware.js:166:7)
+2025-02-27T18:36:36:     at Multipart.emit (node:events:519:28)
+2025-02-27T18:36:36:     at emitCloseNT (node:internal/streams/destroy:147:10)
+2025-02-27T18:36:36:     at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+2025-02-27T20:35:26: Error: ENOENT: no such file or directory, open 'D:\Projects\React\DigitalMarketing\digital-marketing\backend\public\client\file_1740668726595.png'
+2025-03-02T16:14:58: SyntaxError: Unexpected identifier 'client_id'
+2025-03-02T16:14:58:     at compileSourceTextModule (node:internal/modules/esm/utils:339:16)
+2025-03-02T16:14:58:     at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:168:18)
+2025-03-02T16:14:58:     at callTranslator (node:internal/modules/esm/loader:428:14)
+2025-03-02T16:14:58:     at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:434:30)
+2025-03-03T00:29:22: TypeError: res.status(...).josn is not a function
+2025-03-03T00:29:22:     at addreport (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:187:64)
+2025-03-03T00:29:22:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-03-03T00:34:21: TypeError: res.status(...).josn is not a function
+2025-03-03T00:34:21:     at addreport (file:///D:/Projects/React/DigitalMarketing/digital-marketing/backend/controllers/reportform.js:187:57)
+2025-03-03T00:34:21:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
