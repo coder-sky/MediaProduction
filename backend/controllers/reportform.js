@@ -547,13 +547,20 @@ export const clientdashboard = async (req, res) => {
                     }
                 }
                 if (mainAccess.includes('table view') || mainAccess.includes('graph view')) {
-                    const col = ['date', ...report_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
+                    const tableViewCol = ['date', ...report_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
+                    const table_query= `select ${tableViewCol}  from daily_data_report where client_id=? and camp_id=? order by date`
+                    const table_query_values = [client_id, mostRecentCamp['camp_id']]
+                    const table_report = await db.promise().query(table_query, table_query_values)
+
+                    const col = ['date', ...summary_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
                     const accessibleFields = summary_access.split(',').filter(col => col !== '').map(col => col.split(' ').join('_'))
                     const checkInsights = summaryViewInsights.filter(insights => accessibleFields.includes(insights))
 
                     get_daily_report_query = `select ${col}  from daily_data_report where client_id=? and camp_id=? order by date`
                     query_values = [client_id, mostRecentCamp['camp_id']]
                     const daily_report = await db.promise().query(get_daily_report_query, query_values)
+
+                    
 
                     const impressions = daily_report[0].reduce((acc, curr) => acc + curr['impressions'], 0)
                     const clicks = daily_report[0].reduce((acc, curr) => acc + curr['clicks'], 0)
@@ -592,7 +599,7 @@ export const clientdashboard = async (req, res) => {
 
                     tableView = {
                         insights: plannedData,
-                        tableData: col.includes('ctr') ? daily_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA'), ctr: `${data.ctr}%` })) : daily_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA') }))
+                        tableData: tableViewCol.includes('ctr') ? table_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA'), ctr: `${data.ctr}%` })) : table_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA') }))
                     }
 
                 }
@@ -688,13 +695,20 @@ export const campaigninfo = async (req, res) => {
                     }
                 }
                 if (mainAccess.includes('table view') || mainAccess.includes('graph view')) {
-                    const col = ['date', ...report_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
+                    const tableViewCol = ['date', ...report_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
+                    const table_query= `select ${tableViewCol}  from daily_data_report where client_id=? and camp_id=? order by date`
+                    const table_query_values = [client_id, camp_id]
+                    const table_report = await db.promise().query(table_query, table_query_values)
+
+                    const col = ['date', ...summary_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
                     const accessibleFields = summary_access.split(',').filter(col => col !== '').map(col => col.split(' ').join('_'))
                     const checkInsights = summaryViewInsights.filter(insights => accessibleFields.includes(insights))
 
                     get_daily_report_query = `select ${col}  from daily_data_report where client_id=? and camp_id=? order by date`
                     query_values = [client_id, camp_id]
                     const daily_report = await db.promise().query(get_daily_report_query, query_values)
+
+                    
 
                     const impressions = daily_report[0].reduce((acc, curr) => acc + curr['impressions'], 0)
                     const clicks = daily_report[0].reduce((acc, curr) => acc + curr['clicks'], 0)
@@ -733,7 +747,7 @@ export const campaigninfo = async (req, res) => {
 
                     tableView = {
                         insights: plannedData,
-                        tableData: col.includes('ctr') ? daily_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA'), ctr: `${data.ctr}%` })) : daily_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA') }))
+                        tableData: tableViewCol.includes('ctr') ? table_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA'), ctr: `${data.ctr}%` })) : table_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA') }))
                     }
 
                 }
@@ -828,11 +842,16 @@ export const searchcampaign = async (req, res) => {
                     }
                 }
                 if (mainAccess.includes('table view') || mainAccess.includes('graph view')) {
-                    const col = ['date', ...report_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
+                    const tableViewCol = ['date', ...report_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
+                    const table_query= `select ${tableViewCol}  from daily_data_report where date>='${from_date}' and date<='${to_date}' and client_id=? and camp_id=? order by date`
+                    const table_query_values = [client_id, camp_id]
+                    const table_report = await db.promise().query(table_query, table_query_values)
+
+                    const col = ['date', ...summary_access.split(',').filter(col => col !== '').map(col => `\`${col.split(' ').join('_')}\``)].join(',')
                     const accessibleFields = summary_access.split(',').filter(col => col !== '').map(col => col.split(' ').join('_'))
                     const checkInsights = summaryViewInsights.filter(insights => accessibleFields.includes(insights))
 
-                     get_daily_report_query = `select ${col}  from daily_data_report where date>='${from_date}' and date<='${to_date}' and client_id=? and camp_id=? order by date`
+                    get_daily_report_query = `select ${col}  from daily_data_report where date>='${from_date}' and date<='${to_date}' and client_id=? and camp_id=? order by date`
                     query_values = [client_id, camp_id]
                     const daily_report = await db.promise().query(get_daily_report_query, query_values)
 
@@ -873,7 +892,7 @@ export const searchcampaign = async (req, res) => {
 
                     tableView = {
                         insights: plannedData,
-                        tableData: col.includes('ctr') ? daily_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA'), ctr: `${data.ctr}%` })) : daily_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA') }))
+                        tableData: tableViewCol.includes('ctr') ? table_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA'), ctr: `${data.ctr}%` })) : table_report[0].map(data => ({ ...data, date: new Date(data.date).toLocaleDateString('en-CA') }))
                     }
 
                 }

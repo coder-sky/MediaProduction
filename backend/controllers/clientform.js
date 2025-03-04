@@ -15,7 +15,7 @@ export const addclientdetails = (req, res) => {
         const checkuser_values = [clientName, clientUserName]
         // console.log(req.file)
         let logo = ''
-        logo = req.file?.path ==='' || !req.file ?'':req.file?.path.slice(req.file?.path.indexOf('\\'))
+        logo = req.file?.path ==='' || !req.file ?'':req.file?.path.slice(req.file?.path.indexOf('/'))
         // console.log(logo)
         db.query(checkuser_query, checkuser_values, async (err, result) => {
             if (err) {
@@ -220,7 +220,7 @@ export const editclient = async (req, res) => {
                         fs.rmSync('public/client/' + prevData.logo.filename, { force: true });
                     }
 
-                    logo = req.file?.path ==='' || !req.file ?'':req.file?.path.slice(req.file?.path.indexOf('\\'));
+                    logo = req.file?.path ==='' || !req.file ?'':req.file?.path.slice(req.file?.path.indexOf('/'));
 
                 }
 
